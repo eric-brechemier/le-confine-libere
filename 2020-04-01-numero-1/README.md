@@ -4,7 +4,7 @@ Semaine du 25 mars au 1<sup>er</sup> avril 2020
 
 ## En construction
 
-Inconsolables depuis la fermeture de notre librairie de Compiègne, nous avons décidé de prendre les choses en main et de construire notre librairie à la maison.Evidemment, ce n'est pas la même chose, mais ça nous aide à patienter.
+Inconsolables depuis la fermeture de notre librairie de Compiègne, nous avons décidé de prendre les choses en main et de construire notre [librairie à la maison](https://www.lego.com/fr-fr/product/bookshop-10270). Evidemment, ce n'est pas la même chose, les livres de cette librairie sont un peu courts, mais ça nous aide à patienter.
 
 ![En construction](images/en-construction.jpg)
 
@@ -21,6 +21,8 @@ Le 8 octobre 1769, James Cook découvrait la Nouvelle-Zélande et les Māori qui
 ![In Memoriam](images/in-memoriam.jpg)
 
 ## De quelle couleur est cette maison rouge ?
+
+
 
 ![De quelle couleur est cette maison rouge ?](images/ncs.jpg)
 
