@@ -4,6 +4,8 @@ Semaine du 25 mars au 1<sup>er</sup> avril 2020
 
 ## En construction
 
+Inconsolables depuis la fermeture de notre librairie de Compiègne, nous avons décidé de prendre les choses en main et de construire notre librairie à la maison.Evidemment, ce n'est pas la même chose, mais ça nous aide à patienter.
+
 ![En construction](images/en-construction.jpg)
 
 ## C'est dans la boîte
