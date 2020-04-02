@@ -37,6 +37,10 @@
         <CHARSTYLE CNAME="Small Text XS" CPARENT="Default Character Style"/>
         <CHARSTYLE CNAME="Email XS" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Issue Number" CPARENT="Default Character Style" FONT="Cochin Bold Italic" FONTSIZE="30" FONTFEATURES="-clig,-liga"/>
+        <CHARSTYLE CNAME="Issue Price" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="24" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Masthead Title Line 1" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="90" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Masthead Title Line 2" CPARENT="Default Character Style" FONT="Topaz Regular" FONTSIZE="100" FONTFEATURES="-clig" KERN="6"/>
+        <CHARSTYLE CNAME="Masthead Subtitle" CPARENT="Default Character Style" FONT="Giant Regular" FONTSIZE="11" FONTFEATURES="-clig" KERN="5"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -120,28 +124,26 @@
         <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="12 600 " HorizontalGuides="90 " AGhorizontalAutoGap="0" AGverticalAutoGap="12" AGhorizontalAutoCount="0" AGverticalAutoCount="4" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGEOBJECT XPOS="123" YPOS="34" OwnPage="0" ItemID="572056003" PTYPE="4" WIDTH="346.6" HEIGHT="106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" copath="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" gXpos="123" gYpos="34" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle LINESPMode="1" LINESP="90" FONT="Cyclone Layers Background" FONTSIZE="90"/>
-                <ITEXT FONT="Cyclone Layers Background" FONTSIZE="90" CH="Le Confiné"/>
+                <DefaultStyle LINESPMode="1" LINESP="90" FONT="Cyclone Layers Background" FONTSIZE="90" KERN="0"/>
+                <ITEXT FONT="Cyclone Layers Background" FONTSIZE="90" KERN="0" CH="Le Confiné"/>
                 <trail LINESPMode="1" LINESP="90"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="231" YPOS="68" OwnPage="0" ItemID="572655043" PTYPE="4" WIDTH="391" HEIGHT="126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L391 0 L391 126 L0 126 L0 0 Z" copath="M0 0 L391 0 L391 126 L0 126 L0 0 Z" gXpos="231" gYpos="68" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle LINESPMode="1" LINESP="96" FONT="Topaz Regular" FONTSIZE="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="6"/>
-                <ITEXT FONT="Topaz Regular" FONTSIZE="100" SCALEH="100" SCALEV="100" BASEO="0" KERN="6" CH="Libéré"/>
+                <DefaultStyle LINESPMode="1" LINESP="96" CPARENT="Masthead Title Line 2"/>
+                <ITEXT CPARENT="Masthead Title Line 2" CH="Libéré"/>
                 <trail LINESPMode="1" LINESP="96"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="239.2" YPOS="195" OwnPage="0" ItemID="573558723" PTYPE="4" WIDTH="460.8" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" copath="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" gXpos="239.2" gYpos="195" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Giant Regular" FONTSIZE="11" SCALEH="100" KERN="5.8"/>
-                <ITEXT FONT="Giant Regular" FONTSIZE="11" SCALEH="100" KERN="5.8" CH="Récréation d'une semaine de création du 25 mars au 1"/>
-                <ITEXT FONT="Giant Regular" FONTSIZE="11" FEATURES="inherit superscript" SCALEH="100" KERN="5.8" CH="er"/>
-                <ITEXT FONT="Giant Regular" FONTSIZE="11" SCALEH="100" KERN="5.8" CH=" avril 2020"/>
+                <DefaultStyle CPARENT="Masthead Subtitle" KERN="5"/>
+                <ITEXT CPARENT="Masthead Subtitle" KERN="5" CH="Récréation d'une semaine de création du 25 mars au 1er avril 2020"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="107" YPOS="794" OwnPage="0" ItemID="573485507" PTYPE="4" WIDTH="570" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" ROT="270" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L570 0 L570 18 L0 18 L0 0 Z" copath="M0 0 L570 0 L570 18 L0 18 L0 0 Z" gXpos="107" gYpos="794" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="106" YPOS="794" OwnPage="0" ItemID="573485507" PTYPE="4" WIDTH="570" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" ROT="270" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L570 0 L570 18 L0 18 L0 0 Z" copath="M0 0 L570 0 L570 18 L0 18 L0 0 Z" gXpos="106" gYpos="794" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" CPARENT="Small Text XS"/>
                 <ITEXT CPARENT="Small Text XS" CH="Ne peut être vendu. Ce journal est impayable : France 0€, Japon ¥0, UK £0, US $0, NZ $0. CopyLeft "/>
@@ -282,8 +284,8 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="658" YPOS="92" OwnPage="0" ItemID="662020547" PTYPE="4" WIDTH="30" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30 0 L30 24 L0 24 L0 0 Z" copath="M0 0 L30 0 L30 24 L0 24 L0 0 Z" gXpos="658" gYpos="92" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="0" FONT="Cyclone Layers Background" FONTSIZE="24"/>
-                <ITEXT FONT="Cyclone Layers Background" FONTSIZE="24" CH="0€"/>
+                <DefaultStyle ALIGN="0" CPARENT="Issue Price"/>
+                <ITEXT CPARENT="Issue Price" CH="0€"/>
                 <trail ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
