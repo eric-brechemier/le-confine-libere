@@ -36,6 +36,7 @@
         <CHARSTYLE CNAME="Small Text S" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Italic" FONTSIZE="7" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Small Text XS" CPARENT="Default Character Style"/>
         <CHARSTYLE CNAME="Email XS" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Issue Number" CPARENT="Default Character Style" FONT="Cochin Bold Italic" FONTSIZE="30" FONTFEATURES="-clig,-liga"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -115,8 +116,8 @@
             <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="12 600 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="12" AGhorizontalAutoCount="0" AGverticalAutoCount="4" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGEOBJECT XPOS="123" YPOS="34" OwnPage="0" ItemID="572056003" PTYPE="4" WIDTH="391" HEIGHT="106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L391 0 L391 106 L0 106 L0 0 Z" copath="M0 0 L391 0 L391 106 L0 106 L0 0 Z" gXpos="123" gYpos="34" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="12 600 " HorizontalGuides="90 " AGhorizontalAutoGap="0" AGverticalAutoGap="12" AGhorizontalAutoCount="0" AGverticalAutoCount="4" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="123" YPOS="34" OwnPage="0" ItemID="572056003" PTYPE="4" WIDTH="346.6" HEIGHT="106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" copath="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" gXpos="123" gYpos="34" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESPMode="1" LINESP="90" FONT="Cyclone Layers Background" FONTSIZE="90"/>
                 <ITEXT FONT="Cyclone Layers Background" FONTSIZE="90" CH="Le Confiné"/>
@@ -268,6 +269,21 @@
                 <DefaultStyle CPARENT="Email XS" KERN="3.5"/>
                 <ITEXT CPARENT="Email XS" KERN="3.5" CH="le-confine-libere@eric.brechemier.name"/>
                 <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="628.457087899546" YPOS="104.173918053128" OwnPage="0" ItemID="651448771" PTYPE="6" WIDTH="48" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" ROT="328" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L48 0 L48 6 L0 6 L0 0 Z" copath="M0 0 L48 0 L48 6 L0 6 L0 0 Z" gXpos="628.457087899546" gYpos="104.173918053128" gWidth="0" gHeight="0" LAYER="1"/>
+        <PAGEOBJECT XPOS="613.376103098386" YPOS="82.3619696023206" OwnPage="0" ItemID="548854723" PTYPE="4" WIDTH="51.1072536938347" HEIGHT="24.0000000000009" FRTYPE="0" CLIPEDIT="0" ROT="328" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L51.1073 0 L51.1073 24 L0 24 L0 0 Z" copath="M0 0 L51.1073 0 L51.1073 24 L0 24 L0 0 Z" gXpos="613.376103098386" gYpos="82.3619696023206" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" LINESPMode="1" CPARENT="Issue Number"/>
+                <ITEXT CPARENT="Issue Number" CH="№1"/>
+                <trail ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="658" YPOS="92" OwnPage="0" ItemID="662020547" PTYPE="4" WIDTH="30" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30 0 L30 24 L0 24 L0 0 Z" copath="M0 0 L30 0 L30 24 L0 24 L0 0 Z" gXpos="658" gYpos="92" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" FONT="Cyclone Layers Background" FONTSIZE="24"/>
+                <ITEXT FONT="Cyclone Layers Background" FONTSIZE="24" CH="0€"/>
+                <trail ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
