@@ -126,7 +126,7 @@
                 <trail LINESPMode="1" LINESP="96"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="240" YPOS="195" OwnPage="0" ItemID="573558723" PTYPE="4" WIDTH="564" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L564 0 L564 24 L0 24 L0 0 Z" copath="M0 0 L564 0 L564 24 L0 24 L0 0 Z" gXpos="240" gYpos="195" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="239.2" YPOS="195" OwnPage="0" ItemID="573558723" PTYPE="4" WIDTH="460.8" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" copath="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" gXpos="239.2" gYpos="195" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Giant Regular" FONTSIZE="11" SCALEH="100" KERN="5.8"/>
                 <ITEXT FONT="Giant Regular" FONTSIZE="11" SCALEH="100" KERN="5.8" CH="Récréation d'une semaine de création du 25 mars au 1"/>
@@ -162,7 +162,7 @@
         <PAGEOBJECT XPOS="239.2" YPOS="224" OwnPage="0" ItemID="654436803" PTYPE="2" WIDTH="333.6" HEIGHT="234" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.313672922252011" LOCALSCY="0.313672922252011" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/en-construction.jpg" PRFILE="Embedded GIMP built-in sRGB" EPROF="Embedded GIMP built-in sRGB" IRENDER="0" path="M0 0 L333.6 0 L333.6 234 L0 234 L0 0 Z" copath="M0 0 L333.6 0 L333.6 234 L0 234 L0 0 Z" gXpos="239.2" gYpos="224" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="584.7" YPOS="248" OwnPage="0" ItemID="557278147" PTYPE="2" WIDTH="103.2" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.145557122708039" LOCALSCY="0.145557122708039" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/c-est-dans-la-boite.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" copath="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" gXpos="584.7" gYpos="248" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="355" YPOS="462" OwnPage="0" ItemID="547200451" PTYPE="2" WIDTH="218.4" HEIGHT="148" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.205456255879586" LOCALSCY="0.205456255879586" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/ncs.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L218.4 0 L218.4 148 L0 148 L0 0 Z" copath="M0 0 L218.4 0 L218.4 148 L0 148 L0 0 Z" gXpos="355" gYpos="462" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="584.8" YPOS="615" OwnPage="0" ItemID="559534019" PTYPE="2" WIDTH="103.2" HEIGHT="154" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.144873000940734" LOCALSCY="0.144873000940734" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/police-urbaine.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L103.2 0 L103.2 154 L0 154 L0 0 Z" copath="M0 0 L103.2 0 L103.2 154 L0 154 L0 0 Z" gXpos="584.8" gYpos="615" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="584.8" YPOS="622" OwnPage="0" ItemID="559534019" PTYPE="2" WIDTH="103.2" HEIGHT="154" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.144873000940734" LOCALSCY="0.144873000940734" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/police-urbaine.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L103.2 0 L103.2 154 L0 154 L0 0 Z" copath="M0 0 L103.2 0 L103.2 154 L0 154 L0 0 Z" gXpos="584.8" gYpos="622" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="124.4" YPOS="462" OwnPage="0" ItemID="559713731" PTYPE="2" WIDTH="218" HEIGHT="150" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.18458933107536" LOCALSCY="0.18458933107536" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/in-memoriam.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L218 0 L218 150 L0 150 L0 0 Z" copath="M0 0 L218 0 L218 150 L0 150 L0 0 Z" gXpos="124.4" gYpos="462" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="584.8" YPOS="219" OwnPage="0" ItemID="648310211" PTYPE="6" WIDTH="103.2" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" copath="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" gXpos="584.8" gYpos="219" gWidth="0" gHeight="0" LAYER="1"/>
         <PAGEOBJECT XPOS="584.8" YPOS="405" OwnPage="0" ItemID="650431427" PTYPE="4" WIDTH="103.2" HEIGHT="137" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 137 L0 137 L0 0 Z" copath="M0 0 L103.2 0 L103.2 137 L0 137 L0 0 Z" gXpos="584.8" gYpos="405" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -193,24 +193,24 @@
                 <trail PARENT="Text Block"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="124" YPOS="230" OwnPage="0" ItemID="559403459" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="124" gYpos="230" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="124" YPOS="230" OwnPage="0" ItemID="559403459" PTYPE="4" WIDTH="115.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 24 L0 24 L0 0 Z" copath="M0 0 L115.2 0 L115.2 24 L0 24 L0 0 Z" gXpos="124" gYpos="230" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="Title XL" FONTSIZE="25" SCALEH="101"/>
-                <ITEXT CPARENT="Title XL" FONTSIZE="25" SCALEH="101" CH="En construction"/>
+                <DefaultStyle CPARENT="Title XL" FONTSIZE="25" SCALEH="100" KERN="0.8"/>
+                <ITEXT CPARENT="Title XL" FONTSIZE="25" SCALEH="100" KERN="0.8" CH="En construction"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="584.8" YPOS="224" OwnPage="0" ItemID="565271491" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="224" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="584.8" YPOS="224" OwnPage="0" ItemID="565271491" PTYPE="4" WIDTH="115.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 24 L0 24 L0 0 Z" copath="M0 0 L115.2 0 L115.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="224" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="Title L" FONTSIZE="21" SCALEH="104" BASEO="-2"/>
-                <ITEXT CPARENT="Title L" FONTSIZE="21" SCALEH="104" BASEO="-2" CH="C'est dans la boîte"/>
+                <DefaultStyle CPARENT="Title L" KERN="5.9"/>
+                <ITEXT CPARENT="Title L" KERN="5.9" CH="C'est dans la boîte"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="124" YPOS="626" OwnPage="0" ItemID="680288195" PTYPE="4" WIDTH="218.4" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L218.4 0 L218.4 24 L0 24 L0 0 Z" copath="M0 0 L218.4 0 L218.4 24 L0 24 L0 0 Z" gXpos="124" gYpos="626" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="124" YPOS="626" OwnPage="0" ItemID="680288195" PTYPE="4" WIDTH="115.2" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 18 L0 18 L0 0 Z" copath="M0 0 L115.2 0 L115.2 18 L0 18 L0 0 Z" gXpos="124" gYpos="626" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="Title XL" FONTSIZE="26" SCALEH="121"/>
-                <ITEXT CPARENT="Title XL" FONTSIZE="26" SCALEH="121" CH="In Memoriam"/>
+                <DefaultStyle CPARENT="Title XL" FONT="Topaz Layers Background" FONTSIZE="14" SCALEH="100" KERN="4.5"/>
+                <ITEXT CPARENT="Title XL" FONT="Topaz Layers Background" FONTSIZE="14" SCALEH="100" KERN="4.5" CH="IN MEMORIAM"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -222,11 +222,11 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="239.2" YPOS="625" OwnPage="0" ItemID="650851267" PTYPE="4" WIDTH="103.2" HEIGHT="169" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 169 L0 169 L0 0 Z" copath="M0 0 L103.2 0 L103.2 169 L0 169 L0 0 Z" gXpos="239.2" gYpos="625" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="559263683"/>
-        <PAGEOBJECT XPOS="354.4" YPOS="613" OwnPage="0" ItemID="656947139" PTYPE="4" WIDTH="103.2" HEIGHT="37" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 37 L0 37 L0 0 Z" copath="M0 0 L103.2 0 L103.2 37 L0 37 L0 0 Z" gXpos="354.4" gYpos="613" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="354.4" YPOS="613" OwnPage="0" ItemID="656947139" PTYPE="4" WIDTH="103.2" HEIGHT="37" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 37 L0 37 L0 0 Z" copath="M0 0 L103.2 0 L103.2 37 L0 37 L0 0 Z" gXpos="354.4" gYpos="613" gWidth="0" gHeight="0" ALIGN="4" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="Title L"/>
-                <ITEXT CPARENT="Title L" CH="De quelle couleur est cette maison rouge ?"/>
-                <trail/>
+                <DefaultStyle ALIGN="4" CPARENT="Title L" KERN="0"/>
+                <ITEXT CPARENT="Title L" KERN="0" CH="De quelle couleur est cette maison rouge ?"/>
+                <trail ALIGN="4"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="354.4" YPOS="650" OwnPage="0" ItemID="680994755" PTYPE="4" WIDTH="103.2" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" copath="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" gXpos="354.4" gYpos="650" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -236,11 +236,11 @@
                 <trail PARENT="Text Block"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="469.8" YPOS="614" OwnPage="0" ItemID="658788291" PTYPE="6" WIDTH="103.2" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" copath="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" gXpos="469.8" gYpos="614" gWidth="0" gHeight="0" LAYER="1"/>
-        <PAGEOBJECT XPOS="469.6" YPOS="625" OwnPage="0" ItemID="652364739" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="469.6" gYpos="625" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="469.8" YPOS="614" OwnPage="0" ItemID="658788291" PTYPE="6" WIDTH="218.2" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L218.2 0 L218.2 6 L0 6 L0 0 Z" copath="M0 0 L218.2 0 L218.2 6 L0 6 L0 0 Z" gXpos="469.8" gYpos="614" gWidth="0" gHeight="0" LAYER="1"/>
+        <PAGEOBJECT XPOS="469.6" YPOS="626" OwnPage="0" ItemID="652364739" PTYPE="4" WIDTH="115.2" HEIGHT="30" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 30 L0 30 L0 0 Z" copath="M0 0 L115.2 0 L115.2 30 L0 30 L0 0 Z" gXpos="469.6" gYpos="626" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="Title L Highlight" SCALEH="116"/>
-                <ITEXT CPARENT="Title L Highlight" SCALEH="116" CH="Police urbaine"/>
+                <DefaultStyle CPARENT="Title L Highlight" FONTSIZE="26" SCALEH="100" KERN="2.5"/>
+                <ITEXT CPARENT="Title L Highlight" FONTSIZE="26" SCALEH="100" KERN="2.5" CH="Police urbaine"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -251,7 +251,7 @@
                 <trail PARENT="Text Block" ALIGN="4"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="584.8" YPOS="776" OwnPage="0" ItemID="681254339" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="776" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="584.8" YPOS="782" OwnPage="0" ItemID="681254339" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="782" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Text Block"/>
                 <ITEXT CPARENT="Small Text S" CH="En vente sur le site de Gary Hustwit : www.hustwit.com/interviewsbook"/>
