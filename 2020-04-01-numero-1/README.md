@@ -4,12 +4,13 @@ Semaine du 25 mars au 1<sup>er</sup> avril 2020
 
 ## En construction
 
-Inconsolables depuis la fermeture de notre librairie de Compiègne,
+Inconsolables depuis la fermeture de notre [librairie de Compiègne][SIGNES],
 nous avons décidé de prendre les choses en main et de construire
 notre [librairie à la maison][LEGO10270]. Evidemment, ce n'est pas
 la même chose, les livres de cette librairie sont un peu courts,
 mais ça nous aide à patienter.
 
+[SIGNES]: http://www.librairiedessignes.com/
 [LEGO10270]: https://www.lego.com/fr-fr/product/bookshop-10270
 
 ![En construction](images/en-construction.jpg)
