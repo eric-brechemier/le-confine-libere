@@ -18,6 +18,16 @@ réduit leurs dimensions pour diminuer la taille des fichiers.
 
 ## Les textes
 
+J'ai écrit une partie des textes dans ma tête, en marchant dans la rue
+vers la boulangerie, ou chez moi quand les idées venaient à la maison.
+J'ai noté quelques phrases dans mon carnet, que j'avais peur d'oublier.
+J'ai écrit les articles dans un fichier texte, sans formatage.
+Avec des phrases courtes et simples. Je me suis laissé guider par
+la photo d'illustration pour choisir un angle, un point de vue.
+J'ai commencé chaque article par une phrase qui se suffit à elle-même
+et donne une vue d'ensemble. J'ai modifié les titres, pour qu'ils soient
+un peu énigmatiques, et qu'ils ne répètent pas la phrase d'introduction.
+
 ## La grille
 
 ## Les polices
