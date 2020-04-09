@@ -6,10 +6,13 @@ Semaine du 1<sup>er</sup> avril au 8 avril 2020
 
 A force de se tourner les pouces se sont cognés.
 
-Quel est le coupable ? Ont-ils agi seuls ?
-Ou bien sont-ils les hommes de main de toute une phalange ?
+A qui sont ces empreintes ?
+Quel est le coupable ?
+Est-ce que ce sont des jumeaux ?
+Ou bien les hommes de main de toute une phalange ?
 Y-a-t-il d'autres membres ?
 
+Soyez magnanimes.
 C'est la faute de leur environnement.
 Des parents absents.
 Une croissance difficile.
