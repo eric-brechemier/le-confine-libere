@@ -22,13 +22,14 @@ Première à droite. J'allume la radio.
 Pas besoin de regarder l'heure.
 Je connais le programme par cœur.
 Mais ce n'est pas ma radio !
-J'ai dû rater la sortie.
-Suis-je toujours endormi ?
+Je vérifie le tuner.
+Elle n'est nulle part ailleurs.
+On croit rêver.
 Mes animateurs sont partis.
-Flash d'informations continue.
+Sentiment d'irréalité.
 Sur quelle planète suis-je arrivé ?
-Je suis toujours en train de rêver.
-Mon réveil est cassé.
+Flash d'informations continue.
+J'ai dû rater la sortie.
 
 ## Un costume pour nos émotions
 
@@ -40,9 +41,9 @@ Comment choisir une police de caractères pour exprimer
 une émotion telle que la joie ou la colère ?
 Faudrait-il s'habiller différemment lorsque l'on est joyeux,
 heureux ou malheureux ? Pourquoi pas, après tout ?
-On s'habille déjà pour toutes sortes de raison :
-pour faire sérieux, pour être présentable,
-pour avoir l'air de quelqu'un de raisonnable.
+On s'habille déjà pour toutes sortes de raisons :
+pour sortir, pour avoir l'air sérieux,
+pour se donner un genre.
 Pour faire le clown, pour se déguiser.
 Pour faire du sport, pour se faire plaisir,
 pour plaire, mais pas trop.
@@ -66,12 +67,12 @@ et offrent un bon support de discussion.
 Elles montrent toutes les manières dont on peut être différent,
 par un handicap ou une couleur de peau, l'image que l'on se
 fait de soi ou la manière dont les autres nous perçoivent.
-Le texte est plutôt destiné pour les parents,
-ou les enfants plus âgés, à partir de 10 ans.
+Le texte est plutôt destiné aux parents,
+ou aux enfants plus âgés, à partir de 10 ans.
 Il commence par mettre en évidence les stéréotypes binaires
 d'un modèle de famille unique et supposé idéal,
 où un papa et une maman ont deux enfants,
-les garçons sont sportifs et les filles s'habillent en rose.
+les garçons sont sportif et les filles s'habillent en rose.
 Il met des mots sur tout le spectre des déviations du modèle binaire,
 et introduit des concepts de justice sociale
 pour apprendre à reconnaître nos préjugés
@@ -95,5 +96,6 @@ Mais on doit se refaire tirer le portrait, régulièrement.
 Sans compter tout le reste :
 nos valeurs, notre histoire.
 Ce que nous aimons faire,
-ce que nous aimons acheter.
+les produits que nous voulons acheter.
+Ce parfum que vous aimez.
 Tout ce qui nous rend singuliers.
