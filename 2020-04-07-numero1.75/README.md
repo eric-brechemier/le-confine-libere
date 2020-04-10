@@ -104,5 +104,14 @@ la police VAG Rounded pour l'adresse email en pied de page.
 
 ## La mise en page
 
-
+J'ai commencé par placer les photographies, sur une, deux ou trois colonnes
+en fonction de l'article. Puis j'ai ajouté les titres, et les textes, dans
+un ou deux styles pour chaque article. Pour obtenir des colonnes bien denses,
+j'ai justifié les textes, et choisi une taille de police suffisamment petite
+pour que les mots tiennent plus facilement dans les lignes. J'ai ensuite
+modifié les textes, en ajoutant et supprimant des mots pour éviter les trous.
+Lorsque c'était nécessaire, j'ai ensuite ajouté une césure automatique,
+mais j'ai supprimé les césures peu utiles ou trop ... à la main.
+Pour les titres, j'ai réglé la taille des caractères et leur espacement pour
+couvrir toute la largeur de la colonne.
 
