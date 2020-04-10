@@ -4,6 +4,8 @@ Semaine du 1<sup>er</sup> avril au 8 avril 2020
 
 ## Jeux de mains
 
+![Jeux de mains](images/jeux-de-mains.jpg)
+
 A force de se tourner les pouces se sont cognés.
 
 A qui sont ces empreintes ?
@@ -20,6 +22,8 @@ Que ça ne se reproduise plus.
 Il faudra désormais leur éviter l'oisiveté.
 
 ## Trompé de sortie
+
+![Trompé de sortie](images-trompe-de-sortie.jpg)
 
 Première à droite. J'allume la radio.
 Pas besoin de regarder l'heure.
@@ -62,6 +66,8 @@ aux courbes arrondies et aux grands yeux rieurs.
 
 ## Je ne vois que ce que je crois
 
+![Je ne vois que ce que je crois](images/je-ne-vois-que-ce-que-je-crois.jpg)
+
 You Be You! est un petit livre en anglais
 destiné aux parents des enfants qui commencent
 à se demander s'il est normal d'être différent.
@@ -85,6 +91,8 @@ mais certaines nuances des identités de genre
 sont parfois perdues dans cette simplification.
 
 ## y = f(x)
+
+![Identité](images/identite.jpg)
 
 L'identité mathématique est une fonction toute simple.
 Elle va tout droit, sans se poser de questions.
