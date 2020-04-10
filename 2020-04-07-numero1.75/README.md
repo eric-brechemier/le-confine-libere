@@ -40,7 +40,7 @@ l'espace horizontal, hors marges, en 64 lignes de 4.5mm.
 
 J'ai ensuite testé ma grille avec différentes boîtes de texte,
 et j'ai découvert qu'il y avait une option bien utile pour garder
-les lignes successives alignées avec une grille de base.
+les lignes successives alignées avec une grille de lignes de base.
 
 Seulement, il s'agit d'une grille distincte de celle que j'avais créée,
 pour laquelle il faut spécifier la distance entre les lignes en points.
@@ -57,9 +57,9 @@ Lettre US dont les mesures sont des chiffres ronds en points : 612x792pt.
 C'est alors que j'ai eu la bonne surprise de découvrir que les marges
 de mon imprimante avaient également des valeurs simples de 12pt.
 
-J'ai choisi d'utiliser 12pt comme mesure de base pour la grille,
-mais j'ai réglé la grille verticale à 6pt, soit une demie ligne,
-pour me donner plus de flexibilité.
+J'ai choisi d'utiliser 12pt comme mesure de base pour la grille verticale,
+mais j'ai réglé la hauteur de ligne de la grille de lignes de base à 6pt,
+soit une demie ligne de texte, pour me donner plus de flexibilité.
 
 J'ai ensuite recréé les 5 colonnes, avec des gouttières de 12pt.
 J'ai ensuite élargi les marges du document pour créer un espace
