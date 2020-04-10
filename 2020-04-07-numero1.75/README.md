@@ -74,7 +74,33 @@ arrivé que les textes dans les marges soient coupés à l'impression.
 
 ## Les polices
 
+J'ai sélectionné les polices pour le journal parmi celles que j'avais
+déjà sur mon ordinateur, mais en évitant celles installées par défaut,
+qui sont des familles incomplètes. Pour le texte, je souhaitais disposer
+d'un large choix de styles pour pouvoir contraster les articles et leurs
+différentes parties. Après plusieurs essais, j'ai retenu la police Jenson,
+une famille de 32 styles publiée par Adobe et disponible avec mon abonnement
+Creative Cloud. Dessinée par Nicolas Jenson à Venise en 1470, elle a un
+aspect très traditionnel, classique mais un peu décalé, et elle reste très
+lisible même à petite dimension.
 
+Pour les titres, j'ai utilisé une collection de 4 familles de polices que
+j'ai achetée récemment chez Hoeffler & Co : Cyclone, Giant, Knox et Topaz.
+Ces polices ont la particularité d'être composées de deux couches, un épais
+fond noir, l'ombre qui donne son nom à la collection, et de fin rehauts
+lumineux pour le squelette des lettres. Chaque police dispose de trois styles,
+un pour chaque couche, et un pour la combinaison des deux. Les couches
+séparées sont conçues pour personnaliser le rendu de la police combinée.
+Je les ai utilisées différemment, comme des styles à part entière. Les ombres
+donnent des lettres massives avec une forte présence. Les rehauts donnent des
+lettres très fines pour créer des titres légers et aérés. Ces polices sont
+conçues pour fonctionner ensemble. Elles peuvent être mélangées pour donner
+plus ou moins d'emphase à différentes parties d'un titre.
+
+J'ai également utilisé des polices supplémentaires pour un usage très
+spécialisé : la police Cochin pour le numéro avec son caractère № expressif ;
+la police Creative Commons pour les logos dans le texte en marge de gauche,
+la police VAG Rounded pour l'adresse email en pied de page.
 
 ## La mise en page
 
