@@ -8,10 +8,10 @@ Récréation d'une semaine de création
 2. [Semaine du 1<sup>er</sup> avril au 8 avril 2020][N02] ([Sources][SN02])
 
 [N02]: 2020-04-08-numero2/numero2.pdf
-[SN02]: 2020-04-08-numero2/README.md
+[SN02]: 2020-04-08-numero2/
 
 [N01]: 2020-04-01-numero-1/numero1.pdf
-[SN01]: 2020-04-01-numero-1/README.md
+[SN01]: 2020-04-01-numero-1/
 
 ## Licence
 
