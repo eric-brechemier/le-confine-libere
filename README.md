@@ -13,6 +13,13 @@ Récréation d'une semaine de création
 [N01]: 2020-04-01-numero1/numero1.pdf
 [SN01]: 2020-04-01-numero1/
 
+## Bonus
+
+* [La fabrique du journal][NB] ([Sources][SNB])
+
+[NB]: 2020-04-07-numero1.75/numero1.75.pdf
+[SNB]: 2020-04-07-numero1.75/
+
 ## Licence
 
 CopyLeft [CC-BY-NC-SA][] Eric Bréchemier, 2020
