@@ -10,8 +10,8 @@ Récréation d'une semaine de création
 [N02]: 2020-04-08-numero2/numero2.pdf
 [SN02]: 2020-04-08-numero2/
 
-[N01]: 2020-04-01-numero-1/numero1.pdf
-[SN01]: 2020-04-01-numero-1/
+[N01]: 2020-04-01-numero1/numero1.pdf
+[SN01]: 2020-04-01-numero1/
 
 ## Licence
 
