@@ -23,7 +23,7 @@ Il faudra désormais leur éviter l'oisiveté.
 
 ## Trompé de sortie
 
-![Trompé de sortie](images-trompe-de-sortie.jpg)
+![Trompé de sortie](images/trompe-de-sortie.jpg)
 
 Première à droite. J'allume la radio.
 Pas besoin de regarder l'heure.
