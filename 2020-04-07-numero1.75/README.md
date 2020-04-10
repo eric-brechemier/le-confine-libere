@@ -38,7 +38,7 @@ J'ai ensuite créé 5 colonnes, un format typique des journaux,
 avec une gouttière de 4.5mm entre chaque colonne. Et j'ai divisé
 l'espace horizontal, hors marges, en 64 lignes de 4.5mm.
 
-J'ai ensuite testé ma grille avec différentes boîtes de texte,
+J'ai testé ma grille avec différentes boîtes de texte,
 et j'ai découvert qu'il y avait une option bien utile pour garder
 les lignes successives alignées avec une grille de lignes de base.
 
