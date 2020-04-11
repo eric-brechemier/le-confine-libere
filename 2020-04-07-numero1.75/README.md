@@ -85,7 +85,7 @@ aspect très traditionnel, classique mais un peu décalé, et elle reste très
 lisible même à petite dimension.
 
 Pour les titres, j'ai utilisé une collection de 4 familles de polices que
-j'ai achetée récemment chez Hoeffler & Co : Cyclone, Giant, Knox et Topaz.
+j'ai achetée récemment chez Hoefler&Co. : Cyclone, Giant, Knox et Topaz.
 Ces polices ont la particularité d'être composées de deux couches, un épais
 fond noir, l'ombre qui donne son nom à la collection, et de fin rehauts
 lumineux pour le squelette des lettres. Chaque police dispose de trois styles,
