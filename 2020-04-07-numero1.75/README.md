@@ -30,25 +30,26 @@ un peu énigmatiques, et qu'ils ne répètent pas la phrase d'introduction.
 
 ## La grille
 
-Pour construire la grille, j'ai commencé par créer un document vide
-au format A4, en appliquant les marges d'impression de mon imprimante,
+Pour construire la grille,
+j'ai commencé par créer un document vide au format A4,
+en appliquant les marges d'impression de [mon imprimante][MON_IMPRIMANTE],
 4.23mm de chaque côté, que j'ai arrondies à 4.5mm.
 
 J'ai ensuite créé 5 colonnes, un format typique des journaux,
 avec une gouttière de 4.5mm entre chaque colonne. Et j'ai divisé
 l'espace horizontal, hors marges, en 64 lignes de 4.5mm.
 
-J'ai testé ma grille avec différentes boîtes de texte,
-et j'ai découvert qu'il y avait une option bien utile pour garder
-les lignes successives alignées avec une grille de lignes de base.
+J'ai testé ma grille avec différentes boîtes de texte, et j'ai découvert
+qu'il y avait une option bien utile pour garder les lignes successives
+alignées avec une [grille de lignes de base][GRILLE_LIGNES_BASE].
 
 Seulement, il s'agit d'une grille distincte de celle que j'avais créée,
 pour laquelle il faut spécifier la distance entre les lignes en points.
 Cette grille part du haut de la page par défaut, ce qui fait que la
 première ligne est hors de la zone d'impression. Pour la faire partir
 de la marge du haut, il faut spécifier un décalage, à nouveau en points.
-J'ai bien essayé de faire les conversions de mes marges en mm vers
-les points en passant par les pouces, mais à cause des erreurs d'arrondi,
+J'ai bien essayé de faire les [conversions][CONVERSIONS] de mes marges en mm
+vers les points en passant par les pouces, mais à cause des erreurs d'arrondi,
 les lignes n'étaient toujours pas alignées comme je le souhaitais.
 
 Pour me simplifier la vie, j'ai décidé de changer l'unité de travail
@@ -72,25 +73,34 @@ et 18pt en haut et en bas.
 Cette grille fonctionne bien pour la mise en page. Il m'est toutefois
 arrivé que les textes dans les marges soient coupés à l'impression.
 
+[GRILLE_LIGNES_BASE]: https://wiki.scribus.net/canvas/Baseline_Grid_Explained
+[CONVERSIONS]: https://www.unitconverters.net/length/millimeter-to-point.htm
+[MON_IMPRIMANTE]: https://support.brother.com/g/b/producttop.aspx?c=us&lang=en&prod=hl3040cn_all
+
 ## Les polices
 
 J'ai sélectionné les polices pour le journal parmi celles que j'avais
 déjà sur mon ordinateur, mais en évitant celles installées par défaut,
-qui sont des familles incomplètes. Pour le texte, je souhaitais disposer
-d'un large choix de styles pour pouvoir contraster les articles et leurs
-différentes parties. Après plusieurs essais, j'ai retenu la police Jenson,
-une famille de 32 styles publiée par Adobe et disponible avec mon abonnement
-Creative Cloud. Dessinée par Nicolas Jenson à Venise en 1470, elle a un
-aspect très traditionnel, classique mais un peu décalé, et elle reste très
-lisible même à petite dimension.
+qui sont des familles incomplètes.
+
+Pour le texte, je souhaitais disposer d'un large choix de styles
+pour pouvoir contraster les articles et leurs différentes parties.
+Après plusieurs essais, j'ai retenu la police [Jenson][JENSON],
+une famille de 32 styles publiée par [Adobe][ADOBE_JENSON]
+et disponible avec mon abonnement Creative Cloud.
+Dessinée par Nicolas Jenson à Venise en 1470, elle a un aspect
+très traditionnel, classique mais un peu décalé, et elle reste
+très lisible même à petite dimension.
 
 Pour les titres, j'ai utilisé une collection de 4 familles de polices que
-j'ai achetée récemment chez Hoefler&Co. : Cyclone, Giant, Knox et Topaz.
+j'ai achetée récemment chez [Hoefler&Co.][HOEFLER] :
+[Cyclone][CYCLONE], [Giant][GIANT], [Knox][KNOX] et [Topaz][TOPAZ].
 Ces polices ont la particularité d'être composées de deux couches, un épais
-fond noir, l'ombre qui donne son nom à la collection, et de fin rehauts
-lumineux pour le squelette des lettres. Chaque police dispose de trois styles,
-un pour chaque couche, et un pour la combinaison des deux. Les couches
-séparées sont conçues pour personnaliser le rendu de la police combinée.
+fond noir, l'ombre qui donne son nom à [la collection][SHADES],
+et de fin rehauts lumineux pour le squelette des lettres.
+Chaque police dispose de trois styles, un pour chaque couche,
+et un pour la combinaison des deux. Les couches séparées sont conçues
+pour personnaliser le rendu de la police combinée.
 Je les ai utilisées différemment, comme des styles à part entière. Les ombres
 donnent des lettres massives avec une forte présence. Les rehauts donnent des
 lettres très fines pour créer des titres légers et aérés. Ces polices sont
@@ -101,6 +111,15 @@ J'ai également utilisé des polices supplémentaires pour un usage très
 spécialisé : la police Cochin pour le numéro avec son caractère № expressif ;
 la police Creative Commons pour les logos dans le texte en marge de gauche,
 la police VAG Rounded pour l'adresse email en pied de page.
+
+[JENSON]: https://en.wikipedia.org/wiki/Adobe_Jenson
+[ADOBE_JENSON]: https://fonts.adobe.com/fonts/adobe-jenson
+[SHADES]: https://www.typography.com/fonts/shades/styles/shades
+[HOEFLER]: https://www.typography.com/
+[CYCLONE]: https://www.typography.com/fonts/cyclone/styles/cyclone
+[GIANT]: https://www.typography.com/fonts/giant/styles/giant
+[KNOX]: https://www.typography.com/fonts/knox/styles/knox
+[TOPAZ]: https://www.typography.com/fonts/topaz/styles/topaz
 
 ## La mise en page
 
