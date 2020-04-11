@@ -89,6 +89,7 @@
             <Subset Name="Adobe Jenson Pro Italic"/>
             <Subset Name="Adobe Jenson Pro Light"/>
             <Subset Name="Adobe Jenson Pro Regular"/>
+            <Subset Name="Adobe Jenson Pro Semibold Italic"/>
             <Subset Name="Cochin Bold Italic"/>
             <Subset Name="Cochin Regular"/>
             <Subset Name="Creative Commons icons"/>
@@ -300,7 +301,9 @@
         <PAGEOBJECT XPOS="106" YPOS="794" OwnPage="0" ItemID="1965705195" PTYPE="4" WIDTH="570" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" ROT="270" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L570 0 L570 18 L0 18 L0 0 Z" copath="M0 0 L570 0 L570 18 L0 18 L0 0 Z" gXpos="106" gYpos="794" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" CPARENT="Small Text XS"/>
-                <ITEXT CPARENT="Small Text XS" CH="Le texte suivant utilise une police spécifique, Creative Commons Web Fonts pour les icônes. CopyLeft "/>
+                <ITEXT CPARENT="Small Text XS" CH="Le texte suivant utilise une police spécifique, "/>
+                <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Semibold Italic" CH="Creative Commons Web Fonts"/>
+                <ITEXT CPARENT="Small Text XS" CH=" pour les icônes. CopyLeft "/>
                 <ITEXT CPARENT="Small Text XS" FONT="Creative Commons icons" BASEO="-19" CH="cbna"/>
                 <ITEXT CPARENT="Small Text XS" CH=" EricBréchemier, 2020."/>
                 <trail ALIGN="2" LINESPMode="2"/>
@@ -309,7 +312,9 @@
         <PAGEOBJECT XPOS="469.6" YPOS="26" OwnPage="0" ItemID="1965820907" PTYPE="4" WIDTH="218.4" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L218.4 0 L218.4 12 L0 12 L0 0 Z" copath="M0 0 L218.4 0 L218.4 12 L0 12 L0 0 Z" gXpos="469.6" gYpos="26" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" LINESPMode="1" CPARENT="Small Text XS"/>
-                <ITEXT CPARENT="Small Text XS" CH="J'ai utilisé la police Cochin spécifiquement pour le numéro, avec son caractère "/>
+                <ITEXT CPARENT="Small Text XS" CH="J'ai utilisé la police "/>
+                <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Semibold Italic" CH="Cochin"/>
+                <ITEXT CPARENT="Small Text XS" CH=" spécifiquement pour le numéro, avec son caractère "/>
                 <ITEXT CPARENT="Small Text XS" FONT="Cochin Regular" CH="№"/>
                 <ITEXT CPARENT="Small Text XS" CH=" expressif."/>
                 <trail ALIGN="2" LINESPMode="1"/>
@@ -318,7 +323,9 @@
         <PAGEOBJECT XPOS="124" YPOS="794" OwnPage="0" ItemID="1965839851" PTYPE="4" WIDTH="126" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L126 0 L126 12 L0 12 L0 0 Z" copath="M0 0 L126 0 L126 12 L0 12 L0 0 Z" gXpos="124" gYpos="794" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle CPARENT="Small Text S"/>
-                <ITEXT CPARENT="Small Text S" CH="L'adresse email est en police VAG Rounded :"/>
+                <ITEXT CPARENT="Small Text S" CH="L'adresse email est en police "/>
+                <ITEXT CPARENT="Small Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="VAG Rounded"/>
+                <ITEXT CPARENT="Small Text S" CH=" :"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -365,7 +372,15 @@
         <PAGEOBJECT XPOS="124" YPOS="638" OwnPage="0" ItemID="1965861355" PTYPE="4" WIDTH="103.2" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 144 L0 144 L0 0 Z" copath="M0 0 L103.2 0 L103.2 144 L0 144 L0 0 Z" gXpos="124" gYpos="638" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="1965855723" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Text Block" LINESPMode="2" CPARENT="Text S" FONTSIZE="7.5"/>
-                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH="J'ai d'abord travaillé en mm dans un format A4, avant de découvrir que la grille de lignes de base ne pouvait être réglée qu'en points. Pour me simplifier la vie et éviter les erreurs d'arrondi dans les conversions, je suis passé à un format Lettre US de 612x792pt. J'ai utilisé la valeur des marges de mon imprimante, 12pt, comme hauteur de ligne mais j'ai espacé les lignes de base de 6pt pour plus de précision. J'ai ensuite créé 5 colonnes, un format typique des journaux, avec une gouttière de 12pt entre chaque colonne. J'ai ensuite élargi les marges du document pour créer un espace pour des textes en bordure de page, en dehors des colonnes, créant une gouttière supplémentaire de 12pt à gauche et à droite. J'ai ajouté 6pt en haut et en bas pour équilibrer, et arriver ainsi à des marges de 24pt à gauche et à droite, et 18pt en haut et en bas. Cette grille fonctionne bien pour la mise en page.  "/>
+                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH="J'ai d'abord travaillé en mm dans un format A4, avant de "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Regular" FONTSIZE="7.5" CH="découvrir"/>
+                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH=" que la "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" FONTSIZE="7.5" CH="grille de lignes de base"/>
+                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH=" ne pouvait être réglée qu'en points. Pour me simplifier la vie et éviter les erreurs d'arrondi dans les "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" FONTSIZE="7.5" CH="conversions"/>
+                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH=", je suis passé à un format Lettre US de 612x792pt. J'ai utilisé la valeur des marges de "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" FONTSIZE="7.5" CH="mon imprimante"/>
+                <ITEXT CPARENT="Text S" FONTSIZE="7.5" CH=", 12pt, comme hauteur de ligne mais j'ai espacé les lignes de base de 6pt pour plus de précision. J'ai ensuite créé 5 colonnes, un format typique des journaux, avec une gouttière de 12pt entre chaque colonne. J'ai ensuite élargi les marges du document pour créer un espace pour des textes en bordure de page, en dehors des colonnes, créant une gouttière supplémentaire de 12pt à gauche et à droite. J'ai ajouté 6pt en haut et en bas pour équilibrer, et arriver ainsi à des marges de 24pt à gauche et à droite, et 18pt en haut et en bas. Cette grille fonctionne bien pour la mise en page.  "/>
                 <trail PARENT="Text Block" LINESPMode="2"/>
             </StoryText>
         </PAGEOBJECT>
@@ -380,7 +395,23 @@
         <PAGEOBJECT XPOS="354.4" YPOS="638" OwnPage="0" ItemID="1965929963" PTYPE="4" WIDTH="103.2" HEIGHT="168" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 168 L0 168 L0 0 Z" copath="M0 0 L103.2 0 L103.2 168 L0 168 L0 0 Z" gXpos="354.4" gYpos="638" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
-                <ITEXT CPARENT="Text S" CH="Pour le texte, je souhaitais disposer d'un large choix de styles pour pouvoir contraster les articles. J'ai retenu Jenson, une famille de 32 styles de Adobe, distinguée et lisible à taille réduite. Pour les titres, j'ai utilisé la collection Shades de Hoefler&amp;Co. : Cyclone, Giant, Knox et Topaz. Ces polices ont deux couches, ombre et lumière, ainsi qu'un style composé des deux. Les ombres donnent des lettres massives, les lumières des lettres très fines. Les styles combinés donnent des lettres éclairées pour plus d'emphase."/>
+                <ITEXT CPARENT="Text S" CH="Pour le texte, je souhaitais disposer d'un large choix de styles pour pouvoir contraster les articles. J'ai retenu "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Jenson"/>
+                <ITEXT CPARENT="Text S" CH=", une famille de 32 styles de "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Adobe"/>
+                <ITEXT CPARENT="Text S" CH=", distinguée et lisible à taille réduite. Pour les titres, j'ai utilisé la collection "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Shades"/>
+                <ITEXT CPARENT="Text S" CH=" de "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Hoefler&amp;Co."/>
+                <ITEXT CPARENT="Text S" CH=" : "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Cyclone"/>
+                <ITEXT CPARENT="Text S" CH=", "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Giant"/>
+                <ITEXT CPARENT="Text S" CH=", "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Knox"/>
+                <ITEXT CPARENT="Text S" CH=" et "/>
+                <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Topaz"/>
+                <ITEXT CPARENT="Text S" CH=". Ces polices ont deux couches, ombre et lumière, ainsi qu'un style composé des deux. Les ombres donnent des lettres massives, les lumières des lettres très fines. Les styles combinés donnent des lettres éclairées pour plus d'emphase."/>
                 <trail PARENT="Text Block"/>
             </StoryText>
         </PAGEOBJECT>
@@ -448,19 +479,19 @@
         <PAGEOBJECT XPOS="469.6" YPOS="614" OwnPage="0" ItemID="1966042091" PTYPE="6" WIDTH="218.4" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" copath="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" gXpos="469.6" gYpos="614" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="124" YPOS="782" OwnPage="0" ItemID="1966036459" PTYPE="6" WIDTH="218.4" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" copath="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" gXpos="124" gYpos="782" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="584.8" YPOS="782" OwnPage="0" ItemID="1966030827" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="782" gWidth="0" gHeight="0" PSTYLE="Text Block" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="1965760491"/>
-        <PAGEOBJECT XPOS="525" YPOS="26" OwnPage="0" ItemID="1974636523" PTYPE="4" WIDTH="18" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Cochin_%28typeface%29" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link186" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 12 L0 12 L0 0 Z" copath="M0 0 L18 0 L18 12 L0 12 L0 0 Z" gXpos="525" gYpos="26" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="525.7" YPOS="26" OwnPage="0" ItemID="1974636523" PTYPE="4" WIDTH="18" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Cochin_%28typeface%29" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link186" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 12 L0 12 L0 0 Z" copath="M0 0 L18 0 L18 12 L0 12 L0 0 Z" gXpos="525.7" gYpos="26" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="110" YPOS="361" OwnPage="0" ItemID="1964720107" PTYPE="4" WIDTH="12" HEIGHT="72" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://github.com/cc-icons/cc-icons" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link187" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L12 0 L12 72 L0 72 L0 0 Z" copath="M0 0 L12 0 L12 72 L0 72 L0 0 Z" gXpos="110" gYpos="361" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="110" YPOS="361" OwnPage="0" ItemID="1964720107" PTYPE="4" WIDTH="12" HEIGHT="70" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://github.com/cc-icons/cc-icons" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link187" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L12 0 L12 70 L0 70 L0 0 Z" copath="M0 0 L12 0 L12 70 L0 70 L0 0 Z" gXpos="110" gYpos="361" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="185" YPOS="647.9" OwnPage="0" ItemID="2038453227" PTYPE="4" WIDTH="30" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://wiki.scribus.net/canvas/Baseline_Grid_Explained" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link188" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30 0 L30 12 L0 12 L0 0 Z" copath="M0 0 L30 0 L30 12 L0 12 L0 0 Z" gXpos="185" gYpos="647.9" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="129.7" YPOS="659.9" OwnPage="0" ItemID="2038453227" PTYPE="4" WIDTH="65" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://wiki.scribus.net/canvas/Baseline_Grid_Explained" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link188" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L65 0 L65 12 L0 12 L0 0 Z" copath="M0 0 L65 0 L65 12 L0 12 L0 0 Z" gXpos="129.7" gYpos="659.9" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
