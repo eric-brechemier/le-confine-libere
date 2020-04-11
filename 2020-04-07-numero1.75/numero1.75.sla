@@ -91,7 +91,6 @@
             <Subset Name="Adobe Jenson Pro Regular"/>
             <Subset Name="Adobe Jenson Pro Semibold Italic"/>
             <Subset Name="Cochin Bold Italic"/>
-            <Subset Name="Cochin Regular"/>
             <Subset Name="Creative Commons icons"/>
             <Subset Name="Cyclone Layers Background"/>
             <Subset Name="Cyclone Layers Inline"/>
@@ -311,12 +310,12 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="469.6" YPOS="26" OwnPage="0" ItemID="1965820907" PTYPE="4" WIDTH="218.4" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L218.4 0 L218.4 12 L0 12 L0 0 Z" copath="M0 0 L218.4 0 L218.4 12 L0 12 L0 0 Z" gXpos="469.6" gYpos="26" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="2" LINESPMode="1" CPARENT="Small Text XS"/>
-                <ITEXT CPARENT="Small Text XS" CH="J'ai utilisé la police "/>
+                <DefaultStyle ALIGN="2" LINESPMode="1" CPARENT="Small Text XS" FONT="Adobe Jenson Pro Italic"/>
+                <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Italic" CH="J'ai utilisé la police "/>
                 <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Semibold Italic" CH="Cochin"/>
-                <ITEXT CPARENT="Small Text XS" CH=" spécifiquement pour le numéro, avec son caractère "/>
-                <ITEXT CPARENT="Small Text XS" FONT="Cochin Regular" CH="№"/>
-                <ITEXT CPARENT="Small Text XS" CH=" expressif."/>
+                <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Italic" CH=" spécifiquement pour le numéro, avec son caractère "/>
+                <ITEXT CPARENT="Small Text XS" FONT="Cochin Bold Italic" CH="№ "/>
+                <ITEXT CPARENT="Small Text XS" FONT="Adobe Jenson Pro Italic" CH="expressif."/>
                 <trail ALIGN="2" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -479,7 +478,7 @@
         <PAGEOBJECT XPOS="469.6" YPOS="614" OwnPage="0" ItemID="1966042091" PTYPE="6" WIDTH="218.4" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" copath="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" gXpos="469.6" gYpos="614" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="124" YPOS="782" OwnPage="0" ItemID="1966036459" PTYPE="6" WIDTH="218.4" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" copath="M0 0 L218.4 0 L218.4 6 L0 6 L0 0 Z" gXpos="124" gYpos="782" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="584.8" YPOS="782" OwnPage="0" ItemID="1966030827" PTYPE="4" WIDTH="103.2" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" copath="M0 0 L103.2 0 L103.2 24 L0 24 L0 0 Z" gXpos="584.8" gYpos="782" gWidth="0" gHeight="0" PSTYLE="Text Block" ALIGN="3" LAYER="0" NEXTITEM="-1" BACKITEM="1965760491"/>
-        <PAGEOBJECT XPOS="525.7" YPOS="26" OwnPage="0" ItemID="1974636523" PTYPE="4" WIDTH="18" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Cochin_%28typeface%29" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link186" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 12 L0 12 L0 0 Z" copath="M0 0 L18 0 L18 12 L0 12 L0 0 Z" gXpos="525.7" gYpos="26" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="535.1" YPOS="26" OwnPage="0" ItemID="1974636523" PTYPE="4" WIDTH="17" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Cochin_%28typeface%29" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link186" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L17 0 L17 12 L0 12 L0 0 Z" copath="M0 0 L17 0 L17 12 L0 12 L0 0 Z" gXpos="535.1" gYpos="26" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
@@ -564,6 +563,12 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="239" YPOS="791.4" OwnPage="0" ItemID="1980056555" PTYPE="4" WIDTH="105.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="mailto:le-confine-libere@eric.brechemier.name" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link200" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.2 0 L105.2 12 L0 12 L0 0 Z" copath="M0 0 L105.2 0 L105.2 12 L0 12 L0 0 Z" gXpos="239" gYpos="791.4" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="658.4" YPOS="26" OwnPage="0" ItemID="1995026411" PTYPE="4" WIDTH="9" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Numero_sign" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link201" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L9 0 L9 12 L0 12 L0 0 Z" copath="M0 0 L9 0 L9 12 L0 12 L0 0 Z" gXpos="658.4" gYpos="26" gWidth="0" gHeight="0" LAYER="4" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <trail/>
