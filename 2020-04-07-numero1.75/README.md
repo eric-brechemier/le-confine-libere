@@ -108,9 +108,10 @@ conçues pour fonctionner ensemble. Elles peuvent être mélangées pour donner
 plus ou moins d'emphase à différentes parties d'un titre.
 
 J'ai également utilisé des polices supplémentaires pour un usage très
-spécialisé : la police Cochin pour le numéro avec son caractère № expressif ;
-la police Creative Commons pour les logos dans le texte en marge de gauche,
-la police VAG Rounded pour l'adresse email en pied de page.
+spécialisé : la police [Cochin][COCHIN] pour le numéro avec son
+caractère [№][NUMERO] expressif ; la police [Creative Commons][CC]
+pour les logos dans le texte en marge de gauche,
+la police [VAG Rounded][VAG] pour l'adresse email en pied de page.
 
 [JENSON]: https://en.wikipedia.org/wiki/Adobe_Jenson
 [ADOBE_JENSON]: https://fonts.adobe.com/fonts/adobe-jenson
@@ -120,6 +121,10 @@ la police VAG Rounded pour l'adresse email en pied de page.
 [GIANT]: https://www.typography.com/fonts/giant/styles/giant
 [KNOX]: https://www.typography.com/fonts/knox/styles/knox
 [TOPAZ]: https://www.typography.com/fonts/topaz/styles/topaz
+[COCHIN]: https://en.wikipedia.org/wiki/Cochin_(typeface)
+[NUMERO]: https://en.wikipedia.org/wiki/Numero_sign
+[CC]: https://github.com/cc-icons/cc-icons
+[VAG]: https://fonts.adobe.com/fonts/vag-rundschrift-d
 
 ## La mise en page
 
