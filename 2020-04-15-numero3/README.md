@@ -66,6 +66,37 @@ en gardant l'œil sur le compteur. Ou mieux, achetez-les pour offrir.
 
 ![Créez vos propres règles](images/creez-vos-propres-regles.jpg)
 
+Comment obtenir une règle de 60cm ?
+En combinant deux [règles Lego de 30cm][LEGO_RULER], bien sûr.
+Rien de bien compliqué à première vue.
+Il suffit de doubler les proportions, à peu de choses près,
+et d'adapter les instructions pour attacher les deux règles au milieu.
+En y regardant de plus près, toutefois,
+quelques détails méritent qu'on s'y arrête.
+
+Les deux règles séparées sont graduées de 0 à 30cm. A défaut de pouvoir
+mesurer de 30 jusqu'à 60cm, on peut placer chaque 0 à une extrémité de
+la règle pour pouvoir mesurer depuis les deux côtés de la feuille. Soit.
+
+Il est plus difficile de tracer un trait horizontal de 60cm que de 30cm.
+Une légère erreur d'alignement, un dixième de degré,
+décale le trait d'un demi-millimètre seulement à 30cm.
+mais cet écart double avec la distance pour atteindre 1mm à 60cm.
+Pour aggraver les choses, la règle de 60cm est plus difficile à conserver
+droite pendant que l'on trace le trait. Il faut l'appuyer plus fermement.
+Ajoutons une poignée au milieu de la règle, pour mieux la garder en place.
+
+Le même problème d'angle s'applique à la torsion de la règle lorsqu'on
+la soulève. La règle de 30cm est assez rigide, mais avec la même épaisseur,
+la règle de 60cm subit une déformation deux fois supérieure. Ceci nécessite de
+revoir la conception en profondeur, et d'ajouter une fine couche de Lego.
+Je recommande un assortiment de plaques de 4x8, 4x6 et 4x4.
+On obtient ainsi une règle plus rigide, un peu plus lourde et plus stable.
+
+Règle à construire Lego 5005107, 28 pièces.
+
+[LEGO_RULER]: https://www.lego.com/fr-fr/product/lego-buildable-ruler-5005107
+
 ## Direction émotion
 
 ## NCS S ####-X##X
