@@ -152,3 +152,37 @@ En somme, il s'agit d'un rouge brique vif mais sombre. L'avez-vous trouvé ?
 ## Va voir avec Vincent
 
 ![At Eternity's Gate](images/va-voir-vincent.jpg)
+
+Le film [At Eternity's Gate][MOVIE] (À la porte de l'éternité),
+diffusé en France par [Netflix][NETFLIX],
+est une invitation à suivre Vincent Van Gogh pendant les dernières années
+de sa vie et à partager sa perspective unique sur le monde.
+
+Ce n'est pas une biographie du peintre.
+C'est un voyage magique dans l'univers de Vincent Van Gogh.
+
+Les événements présentés sont basés sur des lettres, des témoignages,
+mais aussi des hypothèses romancées, sur la mort accidentelle du peintre,
+ou un carnet perdu qui aurait été retrouvé en 2016,
+en fait connu précédemment et [non authentifié][NOT_VAN_GOGH].
+
+Il s'agit d'un film lent où l'action cède le pas à l'impression.
+Nous marchons dans les pas du peintre sur les chemins de campagne,
+nous goûtons la terre et le soleil, nous sentons le vent.
+La caméra portée à l'épaule nous entraîne à sa suite et nous fait
+partager le rythme de ses mouvements.
+La caméra bascule pour suivre son regard. Nous voyons ce qu'il voit,
+nous suivons ses gestes lorsqu'il peint ou qu'il dessine en pleine nature.
+L'image se floute et se colore, et nous fait partager sa confusion.
+
+Les tournesols sont là. Les modèles aussi. De belles rencontres, douces avec
+son frère Théo, tumultueuses avec Paul Gauguin, jusqu'aux médecins de l'asile,
+sont l'occasion de partager les réflexions philosophiques de Vincent Van Gogh.
+Fils de pasteur, il avait contemplé devenir pasteur lui-même et avait
+étudié la théologie. Ses peintures, que ses contemporains jugent moches,
+sont un témoignage de la beauté du monde pour les générations futures.
+
+[MOVIE]: https://www.ateternitysgate-film.com/
+[NETFLIX]: https://www.netflix.com/watch/81020388
+[NOT_VAN_GOGH]: https://www.vangoghmuseum.nl/en/news-and-press/press-releases/found-sketchbook-with-drawings-is-not-by-van-gogh-according-to-van-gogh-museum
+
