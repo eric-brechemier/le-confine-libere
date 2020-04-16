@@ -99,6 +99,21 @@ Règle à construire Lego 5005107, 28 pièces.
 
 ## Direction émotion
 
+Dans sa bande dessinée [Emotions : Enquête et mode d’emploi][EMOTIONS],
+la dessinatrice Art-mella nous présente
+une [boussole des émotions][BOUSSOLE] avec [4 directions][4DIRECTIONS].
+Au nord, le plaisir et la joie nous indiquent la direction pour avancer.
+À l'opposé, la peur est un mouvement de recul, qui nous ralentit.
+À l'ouest, la colère rejette et repousse d'un grand mouvement vers l'extérieur.
+À l'est, la tristesse tombe vers le bas, et nous fait glisser vers l'intérieur.
+
+Ces quatre directions peuvent s'avérer utile pour représenter graphiquement
+nos émotions. Voilà une belle source d'inspiration que cette bande dessinée.
+
+[EMOTIONS]: http://conscience-quantique.com/category/bd/emotions/
+[BOUSSOLE]: https://conscience-quantique.com/extrait-4-la-boussole-des-emotions/
+[4DIRECTIONS]: https://conscience-quantique.com/extrait-3-les-4-directions-des-emotions/
+
 ## NCS S ####-X##X
 
 ![Mur de briques](images/brick-wall.jpg)
