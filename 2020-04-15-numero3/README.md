@@ -114,9 +114,40 @@ nos émotions. Voilà une belle source d'inspiration que cette bande dessinée.
 [BOUSSOLE]: https://conscience-quantique.com/extrait-4-la-boussole-des-emotions/
 [4DIRECTIONS]: https://conscience-quantique.com/extrait-3-les-4-directions-des-emotions/
 
-## NCS S ####-X##X
+## NCS S 5030-Y80R
 
 ![Mur de briques](images/brick-wall.jpg)
+
+Dans la classification NCS ([Natural Color System][NCS]),
+ce code correspond à l'une des couleurs des briques de ce mur.
+De quelle couleur s'agit-il ?
+
+Lorsqu'on évalue une couleur dans le système NCS, on répartit un total
+de 100 points entre la quantité de noir, de blanc et de couleur perçus.
+
+Les deux premiers chiffres du code indiquent le pourcentage de noir.
+Avec 50% de noir, c'est une couleur sombre où l'impression de noir domine
+sur l'impression de blanc et de couleur.
+
+Les deux chiffres suivants indiquent le pourcentage de couleur.
+Le pourcentage de blanc n'est pas indiqué, c'est le complément à 100.
+Avec 30% de chromaticité, et donc 20% de blanc, l'impression de couleur domine
+sur l'impression de gris. C'est une couleur sombre mais relativement vive.
+
+Le groupe suivant commence et finit par deux lettres
+qui indiquent le quadrant de la teinte dans le cercle des couleurs,
+ici le quadrant qui va du jaune (Y pour Yellow) au rouge (R pour Red).
+
+Pour évaluer la teinte, on répartit 100 points
+entre la couleur de départ et la couleur d'arrivée du quadrant.
+On donne deux chiffres pour le pourcentage de la couleur d'arrivée ;
+le pourcentage de la couleur de départ est omis, c'est le complément à 100.
+Avec 80% de rouge pour 20% de jaune, cette couleur est très proche du rouge,
+un rouge légèrement orangé.
+
+En somme, il s'agit d'un rouge brique vif mais sombre. L'avez-vous trouvé ?
+
+[NCS]: https://ncscolour.com/
 
 ## Va voir avec Vincent
 
