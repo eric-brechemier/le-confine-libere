@@ -146,9 +146,11 @@ le pourcentage de la couleur de départ est omis, c'est le complément à 100.
 Avec 80% de rouge pour 20% de jaune, cette couleur est très proche du rouge,
 un rouge légèrement orangé.
 
-En somme, il s'agit d'un rouge brique vif mais sombre. L'avez-vous trouvé ?
+En somme, il s'agit d'un rouge brique vif mais sombre.
+[L'avez-vous trouvé][SOLUTION] ?
 
 [NCS]: https://ncscolour.com/
+[SOLUTION]: http://46.16.232.131/share/ubqvk
 
 ## Va voir avec Vincent
 
