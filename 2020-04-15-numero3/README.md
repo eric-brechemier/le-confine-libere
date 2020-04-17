@@ -97,7 +97,7 @@ Règle à construire Lego 5005107, 28 pièces.
 
 [LEGO_RULER]: https://www.lego.com/fr-fr/product/lego-buildable-ruler-5005107
 
-## Direction émotion
+## Direction émotions
 
 Dans sa bande dessinée [Emotions : Enquête et mode d’emploi][EMOTIONS],
 la dessinatrice Art-mella nous présente
