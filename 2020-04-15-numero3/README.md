@@ -42,7 +42,7 @@ Lisez un peu tous les jours. Si le livre est compliqué, un chapitre à la fois.
 Pour varier les plaisirs, lisez un, deux ou trois livres en parallèle.
 
 Pour visualiser votre progression, mettez un calendrier sur le mur.
-Pour chaque ligne en cours, tracez jour après jour une ligne de métro.
+Pour chaque livre en cours, tracez jour après jour une ligne de métro.
 A chaque chapitre terminé, ajoutez une station.
 Au terminus, notez le nombre de livres restant.
 
@@ -91,7 +91,8 @@ la soulève. La règle de 30cm est assez rigide, mais avec la même épaisseur,
 la règle de 60cm subit une déformation deux fois supérieure. Ceci nécessite de
 revoir la conception en profondeur, et d'ajouter une fine couche de Lego.
 Je recommande un assortiment de plaques de 4x8, 4x6 et 4x4.
-On obtient ainsi une règle plus rigide, un peu plus lourde et plus stable.
+On obtient ainsi une règle de 60cm plus rigide,
+un peu plus lourde et plus stable.
 
 Règle à construire Lego 5005107, 28 pièces.
 
