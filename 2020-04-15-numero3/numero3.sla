@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="31.1811023622047" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="6" BASEO="18" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="12" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="6" MAJGRID="72" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Anger" SPACE="CMYK" C="0" M="92" Y="96.8" K="10"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="2" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" OpticalMargins="8" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Text Block" ALIGN="3" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Adobe Jenson Pro Regular" FONTSIZE="6" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Text XL" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Semibold" FONTSIZE="12" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Title XL" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="24" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Small Text XL" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Bold Italic" FONTSIZE="9" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Title L" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="18" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Text L" CPARENT="Default Character Style" FONTSIZE="9"/>
+        <CHARSTYLE CNAME="Text M" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Light" FONTSIZE="8" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Small Text L" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Light Italic" FONTSIZE="9" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Text S" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Regular" FONTSIZE="7" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Title L Highlight" CPARENT="Title L" FONT="Cyclone Regular" FONTSIZE="24" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Small Text S" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Italic" FONTSIZE="7" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Small Text XS" CPARENT="Default Character Style"/>
+        <CHARSTYLE CNAME="Email XS" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Issue Number" CPARENT="Default Character Style" FONT="Cochin Bold Italic" FONTSIZE="30" FONTFEATURES="-clig,-liga"/>
+        <CHARSTYLE CNAME="Issue Price" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="24" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Masthead Title Line 1" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="90" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Masthead Title Line 2" CPARENT="Default Character Style" FONT="Topaz Regular" FONTSIZE="100" FONTFEATURES="-clig" KERN="6"/>
+        <CHARSTYLE CNAME="Masthead Subtitle" CPARENT="Default Character Style" FONT="Giant Regular" FONTSIZE="11" FONTFEATURES="-clig" KERN="5"/>
+        <CHARSTYLE CNAME="Small Text M" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Italic" FONTSIZE="8" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Title M" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="14" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Text XS" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Regular" FONTSIZE="6" FONTFEATURES="-clig"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="1" NAME="Text" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="1" LEVEL="0" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0055f3"/>
+        <LAYERS NUMMER="2" LEVEL="2" NAME="Hyperlinks" SICHTBAR="0" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00fecd"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Adobe Jenson Pro Italic"/>
+            <Subset Name="Adobe Jenson Pro Light"/>
+            <Subset Name="Adobe Jenson Pro Light Italic"/>
+            <Subset Name="Adobe Jenson Pro Regular"/>
+            <Subset Name="Adobe Jenson Pro Semibold"/>
+            <Subset Name="Cochin Bold Italic"/>
+            <Subset Name="Creative Commons icons"/>
+            <Subset Name="Cyclone Layers Background"/>
+            <Subset Name="Cyclone Layers Inline"/>
+            <Subset Name="Cyclone Regular"/>
+            <Subset Name="Futura ND Black Regular"/>
+            <Subset Name="Giant Regular"/>
+            <Subset Name="Topaz Layers Background"/>
+            <Subset Name="Topaz Regular"/>
+            <Subset Name="VAG Rundschrift D Light"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="24" BORDERRIGHT="24" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="12 600 " HorizontalGuides="90 " AGhorizontalAutoGap="0" AGverticalAutoGap="12" AGhorizontalAutoCount="0" AGverticalAutoCount="4" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="123" YPOS="34" OwnPage="0" ItemID="149160437" PTYPE="4" WIDTH="346.6" HEIGHT="106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" copath="M0 0 L346.6 0 L346.6 106 L0 106 L0 0 Z" gXpos="123" gYpos="-1630" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" LINESP="90" FONT="Cyclone Layers Background" FONTSIZE="90" KERN="0"/>
+                <ITEXT FONT="Cyclone Layers Background" FONTSIZE="90" KERN="0" CH="Le Confiné"/>
+                <trail LINESPMode="1" LINESP="90"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="231" YPOS="68" OwnPage="0" ItemID="149230581" PTYPE="4" WIDTH="391" HEIGHT="126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L391 0 L391 126 L0 126 L0 0 Z" copath="M0 0 L391 0 L391 126 L0 126 L0 0 Z" gXpos="231" gYpos="-1596" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" LINESP="96" CPARENT="Masthead Title Line 2"/>
+                <ITEXT CPARENT="Masthead Title Line 2" CH="Libéré"/>
+                <trail LINESPMode="1" LINESP="96"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="239.2" YPOS="195" OwnPage="0" ItemID="149237237" PTYPE="4" WIDTH="460.8" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" copath="M0 0 L460.8 0 L460.8 24 L0 24 L0 0 Z" gXpos="239.2" gYpos="-1469" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Masthead Subtitle" KERN="7.3"/>
+                <ITEXT CPARENT="Masthead Subtitle" KERN="7.3" CH="Récréation d'une semaine de création du 8 avril au 15 avril 2020"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="106" YPOS="794" OwnPage="0" ItemID="149356533" PTYPE="4" WIDTH="570" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" ROT="270" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L570 0 L570 18 L0 18 L0 0 Z" copath="M0 0 L570 0 L570 18 L0 18 L0 0 Z" gXpos="106" gYpos="-870" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" CPARENT="Small Text XS"/>
+                <ITEXT CPARENT="Small Text XS" CH="Ne peut être vendu. Ce journal est impayable : France 0€, Japon ¥0, UK £0, US $0, NZ $0. CopyLeft "/>
+                <ITEXT CPARENT="Small Text XS" FONT="Creative Commons icons" BASEO="-19" CH="cbna"/>
+                <ITEXT CPARENT="Small Text XS" CH=" EricBréchemier, 2020."/>
+                <trail ALIGN="2" LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="688" YPOS="793.25" OwnPage="0" ItemID="149353461" PTYPE="4" WIDTH="558.25" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" ROT="270" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L558.25 0 L558.25 12 L0 12 L0 0 Z" copath="M0 0 L558.25 0 L558.25 12 L0 12 L0 0 Z" gXpos="688" gYpos="-870.75" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="1" CPARENT="Small Text XS"/>
+                <ITEXT CPARENT="Small Text XS" CH="Pensez aux feuilles mortes avant d'imprimer. Ne pas jeter sur la voie publique. Attendez l'automne."/>
+                <trail ALIGN="0" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="611.576103098386" YPOS="82.4619696023206" OwnPage="0" ItemID="149327861" PTYPE="4" WIDTH="52.6603063373983" HEIGHT="24.000000000002" FRTYPE="0" CLIPEDIT="0" ROT="328" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L52.6603 0 L52.6603 24 L0 24 L0 0 Z" copath="M0 0 L52.6603 0 L52.6603 24 L0 24 L0 0 Z" gXpos="611.576103098386" gYpos="-1581.53803039768" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" LINESPMode="1" CPARENT="Issue Number"/>
+                <ITEXT CPARENT="Issue Number" CH="№3"/>
+                <trail ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="658" YPOS="92" OwnPage="0" ItemID="149318645" PTYPE="4" WIDTH="30" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30 0 L30 24 L0 24 L0 0 Z" copath="M0 0 L30 0 L30 24 L0 24 L0 0 Z" gXpos="658" gYpos="-1572" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" CPARENT="Issue Price"/>
+                <ITEXT CPARENT="Issue Price" CH="0€"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="123.5" YPOS="794" OwnPage="0" ItemID="149310453" PTYPE="4" WIDTH="119" HEIGHT="8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L119 0 L119 8 L0 8 L0 0 Z" copath="M0 0 L119 0 L119 8 L0 8 L0 0 Z" gXpos="1" gYpos="-827" gWidth="222" gHeight="12" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="0" CPARENT="Small Text S" FONTSIZE="6" KERN="1.5"/>
+                <ITEXT CPARENT="Small Text S" FONTSIZE="6" KERN="1.5" CH="Abonnements, questions, courrier des lecteurs :"/>
+                <trail LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="123.7" YPOS="800" OwnPage="0" ItemID="149322741" PTYPE="4" WIDTH="104.8" HEIGHT="8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L104.8 0 L104.8 8 L0 8 L0 0 Z" copath="M0 0 L104.8 0 L104.8 8 L0 8 L0 0 Z" gXpos="1.2" gYpos="-821" gWidth="222" gHeight="12" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" CPARENT="Email XS" KERN="3.5"/>
+                <ITEXT CPARENT="Email XS" FONTSIZE="6" KERN="3.5" CH="le-confine-libere@eric.brechemier.name"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="353.6" YPOS="215.9" OwnPage="0" ItemID="149304821" PTYPE="4" WIDTH="231.4" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L231.4 0 L231.4 45 L0 45 L0 0 Z" copath="M0 0 L231.4 0 L231.4 45 L0 45 L0 0 Z" gXpos="353.6" gYpos="-1448.1" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Title XL" FONTSIZE="36" KERN="3"/>
+                <ITEXT CPARENT="Title XL" FONT="Cyclone Regular" FONTSIZE="36" KERN="3" CH="Mémoires"/>
+                <ITEXT CPARENT="Title XL" FONTSIZE="36" KERN="-2" CH=" "/>
+                <ITEXT CPARENT="Title XL" FONTSIZE="18" KERN="3" CH="d'un"/>
+                <ITEXT CPARENT="Title XL" FONTSIZE="36" KERN="-2" CH=" "/>
+                <ITEXT CPARENT="Title XL" FONT="Cyclone Layers Background" FONTSIZE="36" KERN="3" CH="tsundoku"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="124" YPOS="554" OwnPage="0" ItemID="149299189" PTYPE="6" WIDTH="103.2" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" copath="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" gXpos="124" gYpos="-1110" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="124" YPOS="225" OwnPage="0" ItemID="149417973" PTYPE="6" WIDTH="103.2" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" copath="M0 0 L103.2 0 L103.2 6 L0 6 L0 0 Z" gXpos="124" gYpos="-1439" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="124.5" YPOS="561.900000000001" OwnPage="0" ItemID="149412341" PTYPE="4" WIDTH="110.8" HEIGHT="23.099999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L110.8 0 L110.8 23.1 L0 23.1 L0 0 Z" copath="M0 0 L110.8 0 L110.8 23.1 L0 23.1 L0 0 Z" gXpos="124.5" gYpos="-1102.1" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" CPARENT="Title M" FONTSIZE="18" KERN="3"/>
+                <ITEXT CPARENT="Title M" FONTSIZE="18" KERN="3" CH="Direction : émotions"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="238.3" YPOS="626" OwnPage="0" ItemID="149422069" PTYPE="4" WIDTH="115.2" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 18 L0 18 L0 0 Z" copath="M0 0 L115.2 0 L115.2 18 L0 18 L0 0 Z" gXpos="238.3" gYpos="-1038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="0"/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="0" CH="NCS"/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="20" CH=" "/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="0" CH="S"/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="20" CH=" "/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="0" CH="5030"/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" SCALEH="140" KERN="0" CH="-"/>
+                <ITEXT CPARENT="Title M" FONT="Topaz Layers Background" FONTSIZE="12" KERN="0" CH="Y80R"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="584.8" YPOS="269" OwnPage="0" ItemID="149296117" PTYPE="4" WIDTH="115.2" HEIGHT="19" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 19 L0 19 L0 0 Z" copath="M0 0 L115.2 0 L115.2 19 L0 19 L0 0 Z" gXpos="584.8" gYpos="-1395" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Title L" KERN="3.6"/>
+                <ITEXT CPARENT="Title L" KERN="3.6" CH="Va voir avec Vincent"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="469.6" YPOS="624" OwnPage="0" ItemID="149397493" PTYPE="4" WIDTH="115.2" HEIGHT="20" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.2 0 L115.2 20 L0 20 L0 0 Z" copath="M0 0 L115.2 0 L115.2 20 L0 20 L0 0 Z" gXpos="469.6" gYpos="-1040" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Title M" FONT="Cyclone Layers Background" FONTSIZE="16" KERN="0.3"/>
+                <ITEXT CPARENT="Title M" FONT="Cyclone Layers Background" FONTSIZE="16" KERN="0.3" CH="Créez vos propres règles"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="354.4" YPOS="254" OwnPage="0" ItemID="149394421" PTYPE="4" WIDTH="103.2" HEIGHT="300" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 300 L0 300 L0 0 Z" copath="M0 0 L103.2 0 L103.2 300 L0 300 L0 0 Z" gXpos="354.4" gYpos="-578" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="149378037" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
+                <ITEXT CPARENT="Text S" CH="Combien de livres me reste-t-il à lire ? Il faut bien tout compter. Les livres rangés sur les étagères. Ceux posés ici et là, à peine entamés. Les livres que je lis en ce moment. Ah, les livres électroniques aussi. J'additionne tout ça... Si votre total est supérieur à votre âge, alors vous êtes peut-être un tsundoku. Dans mon cas, aucun doute possible : plus de quatre fois mon âge. C'était il y a une dizaine d'années. Comme le sudoku, le mot tsundoku nous vient du Japon. Il signifie empiler les livres plus vite qu'on ne les lit. Si vous achetez quatre livres par mois et que vous n'en lisez qu'un, vous êtes un tsundoku. Cette addiction bénigne peut parfois devenir oppressante et... vous décourager de lire. Aussi, voici quelques astuces pour vous aider à réduire votre PAL (Pile À Lire). Faites une liste exhaustive, avec les titres et les nombres de pages. Choisissez un ordre de lecture. Si vous avez plus de 100 livres à lire, arrêtez complètement d'en acheter. Fixez vous des objectifs à atteindre d'ici une certaine date, par exemple moins de 100 livres restant dans un an. Lisez un peu tous les jours. Si le livre est compliqué, un chapitre à la fois. Pour visualiser votre progression, mettez un calendrier sur le mur. Pour chaque ligne en cours, tracez jour après jour une ligne de métro. A chaque chapitre terminé, ajoutez une station. Au terminus, notez le nombre de livres restant. Une fois un pallier dépassé, vous pouvez vous autoriser quelques achats, pour vous récompenser, sous réserve de ne pas remonter au-dessus du pallier. Mais avant d'acheter un nouveau livre, réfléchissez-y à deux fois, et finissez d'abord ceux que vous avez déjà sur le même sujet. Dix ans plus tard, vous êtes un tsundoku complètement réformé. Vous pouvez vous permettre d'acheter un ou deux livres non prévus, en gardant l'œil sur le compteur. Ou mieux, offrez-les."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="469.6" YPOS="254" OwnPage="0" ItemID="149378037" PTYPE="4" WIDTH="103.2" HEIGHT="300" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 300 L0 300 L0 0 Z" copath="M0 0 L103.2 0 L103.2 300 L0 300 L0 0 Z" gXpos="469.6" gYpos="-578" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="149394421"/>
+        <PAGEOBJECT XPOS="584.8" YPOS="290" OwnPage="0" ItemID="149386229" PTYPE="4" WIDTH="103.2" HEIGHT="264" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 264 L0 264 L0 0 Z" copath="M0 0 L103.2 0 L103.2 264 L0 264 L0 0 Z" gXpos="584.8" gYpos="-542" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
+                <ITEXT CPARENT="Text S" CH="Le film At Eternity's Gate, diffusé en France par Netflix, est une invitati"/>
+                <ITEXT CPARENT="Text S" FONTSIZE="6.5" CH="o"/>
+                <ITEXT CPARENT="Text S" CH="n à suivre Vincent Van Gogh pendant les dernières années de sa vie et à partager sa perspective unique sur le monde. Nous marchons dans les pas du peintre sur les chemins de campagne, nous goûtons la terre et le soleil, nous sentons le vent. La caméra portée à l'épaule bascule pour suivre son regard lorsqu'il peint ou qu'il dessine en pleine nature. L'image se floute et se colore, et nous fait partager sa confusion. Les tournesols sont là. Les modèles aussi. De belles rencontres, douces avec son frère Théo, ou tumultueuses avec Paul Gauguin, sont l'occasion de partager ses réflexions philosophiques. Ses peintures, jugées laides à son époque, sont un témoignage de la beauté du monde pour les générations futures."/>
+                <trail PARENT="Text Block"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="124" YPOS="585" OwnPage="0" ItemID="149457397" PTYPE="4" WIDTH="103.2" HEIGHT="179" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 179 L0 179 L0 0 Z" copath="M0 0 L103.2 0 L103.2 179 L0 179 L0 0 Z" gXpos="124" gYpos="-247" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
+                <ITEXT CPARENT="Text S" CH="Dans sa bande dessinée Emotions : Enquête et mode d’emploi, Art-mella présente une boussole des émotions avec 4 directions. Au nord, le plaisir et la joie nous indiquent la direction pour avancer. À l'opposé, la peur est un mouvement de recul, qui nous ralentit. À l'ouest, la colère rejette et repousse d'un grand mouvement vers l'extérieur. À l'est, la tristesse tombe vers le bas, et nous fait glisser vers l'intérieur. Ces quatre directions sont une belle source d'inspiration pour représenter graphiquement nos émotions. "/>
+                <trail PARENT="Text Block"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="239.2" YPOS="644" OwnPage="0" ItemID="149463029" PTYPE="4" WIDTH="103.2" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" copath="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" gXpos="239.2" gYpos="-188" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="149594613" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" LINESPMode="2" LINESP="12" CPARENT="Text S"/>
+                <ITEXT CPARENT="Text S" CH="Dans la clas­si­fi­ca­tion Nat­u­ral Color Sys­tem, ce code cor­re­spond à l'une des couleurs des briques de ce mur. De quelle couleur s'agit-il ? Pour éval­uer une couleur dans le sys­tème NCS, on ré­par­tit un to­tal de 100 points en­tre la quan­tité de noir, de blanc et de couleur perçus. Les deux pre­miers chiffres du code in­diquent le pour­cent­age de noir, 50%, c'est une couleur som­bre. Les deux chiffres suiv­ants idiquent le pour­cent­age de couleur. Le pour­cent­age de blanc est omis, c'est le com­plé­ment à 100. Avec 30% de chro­matic­ité, et 20% de blanc, c'est une couleur rel­a­tive­ment vive. Le groupe suiv­ant con­tient deux let­tres qui in­diquent le quad­rant de la teinte dans le cer­cle des couleurs, ici le quadrant qui va du jaune (Y pour Yel­low) au rouge (R pour Red). Pour éval­uer la teinte, on ré­par­tit 100 points en­tre la couleur de dé­part et la couleur d'ar­rivée du quad­rant. Les deux chiffres de ce groupe don­nent le pour­cent­age de la couleur d'ar­rivée ; le pour­cent­age de la couleur de dé­part est le com­plé­ment à 100. Avec 80% de rouge pour 20% de jaune, cette couleur est très proche du rouge, un rouge légère­ment orangé. En somme, il s'agit d'un rouge brique vif mais som­bre. L'avez-vous trouvé ?"/>
+                <trail PARENT="Text Block" LINESPMode="2" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="628.457087899546" YPOS="104.173918053128" OwnPage="0" ItemID="149212661" PTYPE="6" WIDTH="48" HEIGHT="6" FRTYPE="0" CLIPEDIT="0" ROT="328" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L48 0 L48 6 L0 6 L0 0 Z" copath="M0 0 L48 0 L48 6 L0 6 L0 0 Z" gXpos="628.457087899546" gYpos="-1559.82608194687" gWidth="0" gHeight="0" LAYER="1"/>
+        <PAGEOBJECT XPOS="124" YPOS="224" OwnPage="0" ItemID="149374965" PTYPE="2" WIDTH="218.4" HEIGHT="324" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.100247524752475" LOCALSCY="0.100247524752475" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/memoires-d-un-tsundoku.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L218.4 0 L218.4 324 L0 324 L0 0 Z" copath="M0 0 L218.4 0 L218.4 324 L0 324 L0 0 Z" gXpos="124" gYpos="-1440" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="584.9" YPOS="224" OwnPage="0" ItemID="149270005" PTYPE="2" WIDTH="115.2" HEIGHT="44" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0780141843971631" LOCALSCY="0.0780141843971631" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/va-voir-vincent.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L115.2 0 L115.2 44 L0 44 L0 0 Z" copath="M0 0 L115.2 0 L115.2 44 L0 44 L0 0 Z" gXpos="584.9" gYpos="-1440" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="239.2" YPOS="554" OwnPage="0" ItemID="132411893" PTYPE="2" WIDTH="103.2" HEIGHT="69" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.127722772277228" LOCALSCY="0.127722772277228" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/brick-wall.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L103.2 0 L103.2 69 L0 69 L0 0 Z" copath="M0 0 L103.2 0 L103.2 69 L0 69 L0 0 Z" gXpos="239.2" gYpos="-1110" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="469.6" YPOS="554" OwnPage="0" ItemID="149383157" PTYPE="2" WIDTH="103.2" HEIGHT="69" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.127722772277228" LOCALSCY="0.127722772277228" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/creez-vos-propres-regles.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L103.2 0 L103.2 69 L0 69 L0 0 Z" copath="M0 0 L103.2 0 L103.2 69 L0 69 L0 0 Z" gXpos="469.6" gYpos="-1110" gWidth="0" gHeight="0" LAYER="1" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="584.8" YPOS="794" OwnPage="0" ItemID="155941365" PTYPE="4" WIDTH="103.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://www.jkp.com/uk/you-be-you.html" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Copy of Link205 (3)" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" copath="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" gXpos="584.8" gYpos="-870" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="146.642424242424" YPOS="773.693939393939" OwnPage="0" ItemID="149248501" PTYPE="6" WIDTH="13.8181818181815" HEIGHT="13.8181818181802" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" gXpos="-76.5" gYpos="-817.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="167.945454545454" YPOS="773.693939393939" OwnPage="0" ItemID="150946293" PTYPE="6" WIDTH="13.8181818181815" HEIGHT="13.8181818181802" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" gXpos="-39.5" gYpos="-817.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="124.187878787879" YPOS="773.693939393939" OwnPage="0" ItemID="150940661" PTYPE="6" WIDTH="13.8181818181815" HEIGHT="13.8181818181802" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" gXpos="-115.5" gYpos="-817.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="190.399999999999" YPOS="773.693939393939" OwnPage="0" ItemID="150973429" PTYPE="6" WIDTH="13.8181818181815" HEIGHT="13.8181818181802" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" gXpos="-0.5" gYpos="-817.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="212.854545454544" YPOS="773.693939393939" OwnPage="0" ItemID="148763637" PTYPE="6" WIDTH="13.8181818181815" HEIGHT="13.8181818181802" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 13.8182 L0 13.8182 L0 0 Z" gXpos="38.5" gYpos="-817.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="125.915151515151" YPOS="785.727272727271" OwnPage="0" ItemID="148758005" PTYPE="5" WIDTH="10.3636363636361" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="-112.5" gYpos="-796.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="148.369696969696" YPOS="785.727272727271" OwnPage="0" ItemID="149734901" PTYPE="5" WIDTH="10.3636363636361" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="-73.5" gYpos="-796.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="169.672727272726" YPOS="785.727272727271" OwnPage="0" ItemID="149590005" PTYPE="5" WIDTH="10.3636363636361" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="-36.5" gYpos="-796.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="192.127272727271" YPOS="785.727272727271" OwnPage="0" ItemID="149584373" PTYPE="5" WIDTH="10.3636363636361" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="2.5" gYpos="-796.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="214.581818181816" YPOS="785.727272727271" OwnPage="0" ItemID="234895861" PTYPE="5" WIDTH="10.3636363636361" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="41.5" gYpos="-796.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="128.793939393939" YPOS="776.515151515151" OwnPage="0" ItemID="235071477" PTYPE="6" WIDTH="4.60606060606051" HEIGHT="6.90909090909008" FRTYPE="15" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" copath="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" gXpos="-107.5" gYpos="-812.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="171.227272727272" YPOS="776.515151515151" OwnPage="0" ItemID="235065845" PTYPE="6" WIDTH="4.60606060606051" HEIGHT="6.90909090909008" FRTYPE="15" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" copath="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" gXpos="-33.8" gYpos="-812.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="174.681818181817" YPOS="776.515151515151" OwnPage="0" ItemID="150872053" PTYPE="6" WIDTH="4.60606060606051" HEIGHT="6.90909090909008" FRTYPE="15" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" copath="M0 0 L4.60606 3.45455 L0 6.90909 L0 0 Z" gXpos="-27.8" gYpos="-812.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="192.760606060605" YPOS="778.01212121212" OwnPage="0" ItemID="234970101" PTYPE="6" WIDTH="4.03030303030295" HEIGHT="4.03030303030255" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L4.0303 0 L4.0303 4.0303 L0 4.0303 L0 0 Z" copath="M0 0 L4.0303 0 L4.0303 4.0303 L0 4.0303 L0 0 Z" gXpos="3.59999999999999" gYpos="-810.2" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="149.348484848484" YPOS="776.515151515151" OwnPage="0" ItemID="234964469" PTYPE="6" WIDTH="4.60606060606051" HEIGHT="6.90909090909008" FRTYPE="14" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 3.45455 L4.60606 0 L4.60606 6.90909 L0 3.45455 Z" copath="M0 3.45455 L4.60606 0 L4.60606 6.90909 L0 3.45455 Z" gXpos="-71.8" gYpos="-812.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="152.745454545454" YPOS="776.515151515151" OwnPage="0" ItemID="148467701" PTYPE="6" WIDTH="4.60606060606051" HEIGHT="6.90909090909008" FRTYPE="14" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 3.45455 L4.60606 0 L4.60606 6.90909 L0 3.45455 Z" copath="M0 3.45455 L4.60606 0 L4.60606 6.90909 L0 3.45455 Z" gXpos="-65.9" gYpos="-812.8" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="217.460606060604" YPOS="777.436363636363" OwnPage="0" ItemID="234999797" PTYPE="6" WIDTH="1.72727272727269" HEIGHT="5.18181818181756" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L1.72727 0 L1.72727 5.18182 L0 5.18182 L0 0 Z" copath="M0 0 L1.72727 0 L1.72727 5.18182 L0 5.18182 L0 0 Z" gXpos="46.5" gYpos="-811.2" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="220.339393939392" YPOS="777.436363636363" OwnPage="0" ItemID="234994165" PTYPE="6" WIDTH="1.72727272727269" HEIGHT="5.18181818181756" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 0 L1.72727 0 L1.72727 5.18182 L0 5.18182 L0 0 Z" copath="M0 0 L1.72727 0 L1.72727 5.18182 L0 5.18182 L0 0 Z" gXpos="51.5" gYpos="-811.2" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="197.827272727271" YPOS="781.754545454544" OwnPage="0" ItemID="150901749" PTYPE="5" WIDTH="4.03030303030289" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PCOLOR2="Black" PLINEART="1" path="" gXpos="12.4" gYpos="-803.7" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="197.827272727271" YPOS="778.01212121212" OwnPage="0" ItemID="149672949" PTYPE="6" WIDTH="4.03030303030295" HEIGHT="2.87878787878753" FRTYPE="16" CLIPEDIT="1" PWIDTH="0.575757575757564" PCOLOR="Black" PLINEART="1" path="M0 2.87879 L2.01515 0 L4.0303 2.87879 L0 2.87879 Z" copath="M0 2.87879 L2.01515 0 L4.0303 2.87879 L0 2.87879 Z" gXpos="12.4" gYpos="-810.2" gWidth="181.5" gHeight="38.5999999999999" LAYER="1"/>
+        <PAGEOBJECT XPOS="124.187878787879" YPOS="765.375757575758" OwnPage="0" ItemID="148797941" PTYPE="4" WIDTH="13.8181818181815" HEIGHT="6.90909090909008" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PLINEART="1" LOCALSCX="0.575757575757564" LOCALSCY="0.575757575757507" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.8182 0 L13.8182 6.90909 L0 6.90909 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 6.90909 L0 6.90909 L0 0 Z" gXpos="-115.5" gYpos="-832" gWidth="181.5" gHeight="38.5999999999999" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Topaz Layers Background"/>
+                <ITEXT FONT="Topaz Layers Background" FONTSIZE="3.5" CH="Joie"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="146.642424242424" YPOS="765.375757575758" OwnPage="0" ItemID="143233525" PTYPE="4" WIDTH="13.8181818181815" HEIGHT="6.90909090909008" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PLINEART="1" LOCALSCX="0.575757575757564" LOCALSCY="0.575757575757507" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.8182 0 L13.8182 6.90909 L0 6.90909 L0 0 Z" copath="M0 0 L13.8182 0 L13.8182 6.90909 L0 6.90909 L0 0 Z" gXpos="-76.5" gYpos="-832" gWidth="181.5" gHeight="38.5999999999999" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Topaz Layers Background"/>
+                <ITEXT FONTSIZE="3.5" CH="PEUR"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="166.945454545454" YPOS="765.375757575758" OwnPage="0" ItemID="148790773" PTYPE="4" WIDTH="15.8181818181815" HEIGHT="6.90909090909008" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PLINEART="1" LOCALSCX="0.575757575757564" LOCALSCY="0.575757575757507" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L15.8182 0 L15.8182 6.90909 L0 6.90909 L0 0 Z" copath="M0 0 L15.8182 0 L15.8182 6.90909 L0 6.90909 L0 0 Z" gXpos="-40.5" gYpos="-832" gWidth="181.5" gHeight="38.5999999999999" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Topaz Layers Background"/>
+                <ITEXT FONTSIZE="3.5" CH="Plaisir"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="189.399999999999" YPOS="765.375757575758" OwnPage="0" ItemID="148794869" PTYPE="4" WIDTH="15.8181818181815" HEIGHT="6.90909090909008" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PLINEART="1" LOCALSCX="0.575757575757564" LOCALSCY="0.575757575757507" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L15.8182 0 L15.8182 6.90909 L0 6.90909 L0 0 Z" copath="M0 0 L15.8182 0 L15.8182 6.90909 L0 6.90909 L0 0 Z" gXpos="-1.5" gYpos="-832" gWidth="181.5" gHeight="38.5999999999999" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Topaz Layers Background"/>
+                <ITEXT FONT="Topaz Layers Background" FONTSIZE="3.5" CH="COLÈRE"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="210.127272727271" YPOS="765.375757575758" OwnPage="0" ItemID="156294645" PTYPE="4" WIDTH="19.2727272727269" HEIGHT="6.90909090909008" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.575757575757564" PLINEART="1" LOCALSCX="0.575757575757564" LOCALSCY="0.575757575757507" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L19.2727 0 L19.2727 6.90909 L0 6.90909 L0 0 Z" copath="M0 0 L19.2727 0 L19.2727 6.90909 L0 6.90909 L0 0 Z" gXpos="34.5" gYpos="-832" gWidth="181.5" gHeight="38.5999999999999" ALIGN="1" LAYER="1" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Topaz Layers Background" FONTSIZE="6"/>
+                <ITEXT FONT="Topaz Layers Background" FONTSIZE="3.5" CH="TRISTESSE"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="354.4" YPOS="572" OwnPage="0" ItemID="149594613" PTYPE="4" WIDTH="103.2" HEIGHT="228" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 228 L0 228 L0 0 Z" copath="M0 0 L103.2 0 L103.2 228 L0 228 L0 0 Z" gXpos="354.4" gYpos="572" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="149463029"/>
+        <PAGEOBJECT XPOS="354.4" YPOS="554" OwnPage="0" ItemID="127917557" PTYPE="6" WIDTH="103.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" copath="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" gXpos="354.4" gYpos="-1110" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="584.8" YPOS="554" OwnPage="0" ItemID="236746229" PTYPE="6" WIDTH="103.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PLINEART="1" path="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" copath="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" gXpos="584.8" gYpos="-1110" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="469.6" YPOS="644" OwnPage="0" ItemID="130977781" PTYPE="4" WIDTH="103.2" HEIGHT="156" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" copath="M0 0 L103.2 0 L103.2 156 L0 156 L0 0 Z" gXpos="469.6" gYpos="644" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="138248693" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
+                <ITEXT CPARENT="Text S" CH="Comment obtenir une règle de 60cm ? Avec deux règles Lego de 30cm ! Rien de bien compliqué à première vue. Il suffit de doubler les proportions et d'adapter les instructions pour attacher les deux règles au milieu. Toutefois, quelques détails méritent qu'on s'y arrête. Il est plus difficile de tracer un trait horizontal de 60cm que de 30cm. Une erreur d'un dixième de degré décale le trait d'½mm à 30cm. mais cet écart double avec la distance pour atteindre 1mm à 60cm. Pour aggraver les choses, la règle de 60cm est plus difficile à conserver droite pendant que l'on trace le trait. Il faut l'appuyer plus fermement. Ajoutons une poignée au milieu de la règle, pour mieux la garder en place. Le même problème d'angle s'applique à la torsion de la règle lorsqu'on la soulève. La règle de 30cm est assez rigide, mais avec la même épaisseur, la règle de 60cm subit une déformation deux fois supérieure. Ceci nécessite de revoir la conception en profondeur, et d'ajouter une fine couche de Lego. Je recommande un assortiment de plaques de 4x8, 4x6 et 4x4. On obtient ainsi une règle plus rigide, un peu plus lourde et plus stable."/>
+                <trail PARENT="Text Block"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="584.8" YPOS="572" OwnPage="0" ItemID="138248693" PTYPE="4" WIDTH="103.2" HEIGHT="222" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 222 L0 222 L0 0 Z" copath="M0 0 L103.2 0 L103.2 222 L0 222 L0 0 Z" gXpos="584.8" gYpos="572" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="130977781"/>
+        <PAGEOBJECT XPOS="584.8" YPOS="788" OwnPage="0" ItemID="149676021" PTYPE="4" WIDTH="103.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" copath="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" gXpos="584.8" gYpos="788" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text Block" CPARENT="Small Text S" FONTSIZE="7"/>
+                <ITEXT CPARENT="Small Text S" FONTSIZE="7" CH="Règle à construire Lego 5005107."/>
+                <trail PARENT="Text Block"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
