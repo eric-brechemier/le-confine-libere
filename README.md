@@ -6,6 +6,10 @@ Récréation d'une semaine de création
 
 1. [Semaine du 25 mars au 1<sup>er</sup> avril 2020][N01] ([Sources][SN01])
 2. [Semaine du 1<sup>er</sup> avril au 8 avril 2020][N02] ([Sources][SN02])
+3. [Semaine du 8 avril au 15 avril 2020][N03] ([Sources][SN03])
+
+[N03]: 2020-04-15-numero3/numero3.pdf
+[SN03]: 2020-04-15-numero3/
 
 [N02]: 2020-04-08-numero2/numero2.pdf
 [SN02]: 2020-04-08-numero2/
