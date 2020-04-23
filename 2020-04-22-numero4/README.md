@@ -28,7 +28,7 @@ Ni en montant, ni en descendant.
 Est-ce un étage réservé au service, accessible par un autre ascenseur ?
 Non. Le temps de parcours de l'ascenseur en montant du 3<sup>e</sup>
 au 5<sup>e</sup>, et en descendant du 5<sup>e</sup> au 3<sup>e</sup>,
-est identique au temps pour monter et descendre d'un seul étage.
+est identique au temps pour monter ou descendre d'un seul étage.
 
 Cet hôtel n'a pas de quatrième étage. C'est un problème courant en Asie.
 En japonais comme en chinois, le mot quatre sonne comme la mort.
