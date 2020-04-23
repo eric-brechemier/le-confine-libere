@@ -127,9 +127,9 @@ A l'inverse, commencez par les bords de la fleur, pour finir par le centre.
 
 Vous pouvez soulever la serviette, sans la déplacer, pour examiner
 la progression du transfert. Si le résultat vous satisfait, vous pouvez
-enlever la serviette. L'image peut être fixée sur un tissu à l'aide d'un
-fer à repasser, passé pendant plusieurs minutes de chaque côté à la chaleur
-maximale supportée par le tissu.
+enlever la serviette. Pour fixer l'image sur un tissu, utilisez un fer à
+repasser, pendant plusieurs minutes de chaque côté, à la chaleur maximale
+supportée par le tissu.
 
 Je ne vous cache pas que le résultat est très variable en fonction
 des fleurs choisies. Il ressemble parfois à une fleur écrasée.
