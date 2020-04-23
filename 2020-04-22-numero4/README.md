@@ -73,6 +73,35 @@ et s'étonner de la trouver encore confortable.
 
 ![Elles se tracent, elles se cassent](elles-se-tracent-elles-se-cassent.jpg)
 
+Les quatre émotions de base, la colère, la joie, la peur, la tristesse,
+sont aisément associées avec des couleurs qui leur correspondent.
+On dit bien être rouge de colère, vert de peur.
+Avoir un coup de blues, prenons un bleu nuit pour la tristesse.
+Et à l'inverse, un jaune lumineux pour la joie.
+
+Il est moins aisé de trouver des traits, tracés au feutre noir,
+qui soient caractéristiques de ces émotions.
+
+La colère se ferme comme une croix qui interdit le passage.
+Elle passe et repasse en traits rapprochés et nerveux, comme une discussion
+où le ton monte et l'espace se réduit à force de répéter les mêmes arguments.
+Puis elle explose et laisse derrière elle de petits fragments tranchants.
+
+La joie nous transporte dans un univers radieux, calme, serein.
+Un espace de jeu aux formes douces et ouvertes,
+qui nous conduit sans nous commander.
+Les bons points et les petits plus renforcent notre bonne humeur.
+
+La tristesse tombe et ruisselle telle la pluie sur la fenêtre.
+De grosses gouttes y nagent comme des poissons dans l'eau salée des larmes.
+Un filet d'algues noires les retiennent.
+
+La peur n'avance qu'à reculons. Elle craint de s'éloigner des bords,
+tremble, rebrousse chemin. Lit les signes de travers, qu'elle prend
+pour des avertissements. Et se perd dans la brume d'un feutre usé.
+
+[4DIRECTIONS]: https://conscience-quantique.com/extrait-3-les-4-directions-des-emotions/
+[EMOTIONS]: http://conscience-quantique.com/category/bd/emotions/
 
 ## Le peintre marteau
 
