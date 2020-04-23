@@ -117,11 +117,11 @@ papier ou le morceau de tissu où vous souhaitez peindre votre motif.
 Placez-y une fleur, orientée vers le bas, contre la surface à peindre.
 Pour les feuilles, peu importe le sens.
 
-Positionnez une serviette en papier par-dessus, et maintenez-la bien
-en place pendant que vous frappez doucement la fleur avec le marteau,
-à travers la serviette. Pour les feuilles, frappez d'abord la nervure
-centrale, jusqu'à ce qu'elle apparaisse à travers la serviette, puis
-continuez avec le reste de la feuille jusqu'à la voir en entier.
+Positionnez une serviette en papier au-dessus de la fleur,
+et maintenez-la bien en place pendant que vous frappez doucement
+avec un marteau. Pour les feuilles, frappez d'abord la nervure
+centrale, jusqu'à ce qu'elle apparaisse à travers la serviette,
+puis continuez avec le reste de la feuille jusqu'à la voir en entier.
 A l'inverse, commencez par les bords de la fleur, pour finir par le centre.
 
 Vous pouvez soulever la serviette, sans la déplacer, pour examiner
