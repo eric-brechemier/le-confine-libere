@@ -45,6 +45,29 @@ Et le 4 avril est le jour le plus funeste de l'année.
 
 ![La mémoire dans la peau](la-memoire-dans-la-peau.jpg)
 
+La [visualisation][] est une technique utilisée par les athlètes
+de haut niveau, qui consiste à s'imaginer en train de réaliser une séquence
+de mouvements pour activer les circuits nerveux associés et la mémoriser.
+Il s'agit d'une forme de mémoire non verbale et implicite,
+en quelque sorte une mémoire des muscles, qui permet ensuite
+de réaliser cette action sans y réfléchir consciemment.
+
+Je suis loin, pour ma part, d'être un sportif de haut niveau.
+J'ai pourtant pu faire récemment une expérience similaire.
+Le site [GOG.com][] a été fondé en 2008 pour vendre sur Internet
+de « bons vieux jeux vidéos », “Good Old Games”,
+reformatés pour les rendre compatibles avec les ordinateurs actuels.
+Il sort ainsi chaque année de nouveaux jeux des années 1990 et 2000.
+
+En jouant cette semaine au même jeu à vingt ans d'intervalle,
+j'ai retrouvé de manière inconsciente des gestes de la main
+adaptés et efficaces en réaction aux circonstances du jeu.
+C'est un sentiment étrange que de retrouver un geste oublié,
+comme remettre une vieille paire de chaussures
+et s'étonner de la trouver encore confortable.
+
+[visualisation]: https://www.jonathanlelievre.com/fr/blogue/preparation-mentale-du-sportif-visualisation-dans-les-details-21
+[GOG.com]: https://www.gog.com/
 
 ## Elles se tracent, elles se cassent
 
