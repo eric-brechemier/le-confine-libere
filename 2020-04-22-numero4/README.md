@@ -161,7 +161,7 @@ Elle révèle plus qu'elle ne cache : Kokoschka y peint les nerfs tels
 des tatouages. Schiele lui donne des couleurs vives, qui varient selon
 les zones de plus ou moins grande sensibilité. Ces artistes assistent
 à des dissections et suivent les dernières avancées de la science.
-Ils peignent comme des rayons X. Les mains torturées avouent
+Ils peignent leur vision comme des rayons X. Les mains torturées avouent
 les maladies et les troubles psychiques de leurs modèles.
 
 Le spiritisme est également très en vogue, et la photographie naissante
