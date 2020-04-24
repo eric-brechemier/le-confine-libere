@@ -156,7 +156,7 @@ Son livre,
 [« A fleur de peau. Vienne 1900, de Klimt à Schiele et Kokoschka »][BOOK_MCBA],
 présente une collection d'essais et le catalogue de l'exposition.
 
-Cette peau qui sous-tend l'exposition, n'est plus la limite du corps.
+Cette peau qui sous-tend l'exposition n'est plus la limite du corps.
 Elle révèle plus qu'elle ne cache : Kokoschka y peint les nerfs tels
 des tatouages. Schiele lui donne des couleurs vives, qui varient selon
 les zones de plus ou moins grande sensibilité. Ces artistes assistent
