@@ -100,9 +100,6 @@ La peur n'avance qu'à reculons. Elle craint de s'éloigner des bords,
 tremble, rebrousse chemin. Lit les signes de travers, qu'elle prend
 pour des avertissements. Et se perd dans la brume d'un feutre usé.
 
-[4DIRECTIONS]: https://conscience-quantique.com/extrait-3-les-4-directions-des-emotions/
-[EMOTIONS]: http://conscience-quantique.com/category/bd/emotions/
-
 ## Le peintre marteau
 
 ![Le peintre marteau](le-peintre-marteau.jpg)
