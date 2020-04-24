@@ -143,4 +143,44 @@ Mais même si c'est moche, papa, ça sent quand même bon.
 
 ![Peinture voyante](peinture-voyante.jpg)
 
+Dans la Vienne des années 1900, les artistes font [Sécession][]
+pour rejeter l'académisme. Ils exposent dans un bâtiment blanc dépouillé
+d'ornements qui fait un pied de nez à l'école des Beaux-Arts non loin.
+Inspirés par le mouvement [Arts and Crafts][], ils ouvrent des ateliers
+qui produisent mobilier et céramiques pour compléter des bâtiments
+à l'architecture fonctionnelle et former une œuvre d'art totale.
+
+Une [exposition][EXPO_MCBA] leur est consacrée au
+[Musée cantonal des Beaux-Arts de Lausanne][MCBA].
+Son livre,
+[« A fleur de peau. Vienne 1900, de Klimt à Schiele et Kokoschka »][BOOK_MCBA],
+présente une collection d'essais et le catalogue de l'exposition.
+
+Cette peau qui sous-tend l'exposition, n'est plus la limite du corps.
+Elle révèle plus qu'elle ne cache : Kokoschka y peint les nerfs tels
+des tatouages. Schiele lui donne des couleurs vives, qui varient selon
+les zones de plus ou moins grande sensibilité. Ces artistes assistent
+à des dissections et suivent les dernières avancées de la science.
+Ils peignent comme des rayons X. Les mains torturées avouent
+les maladies et les troubles psychiques de leurs modèles.
+
+Le spiritisme est également très en vogue, et la photographie naissante
+donne les premières “preuves” de la présence d'esprits à nos côtés.
+Les peintres de la Sécession perçoivent jusqu'à l'aura psychique de leurs
+modèles, qu'ils représentent sur leurs tableaux.
+
+Peu convaincu, le psychiatre et neuroanatomiste [Auguste Forel][] refuse
+d'acheter le tableau que le jeune Kokoschka vient de faire de lui. Il n'est
+pas très ressemblant. Les mains présentent clairement les séquelles d'une
+attaque cardiaque dont il n'a jamais souffert. Deux ans plus tard,
+sa main droite, paralysée par une série d'attaques, était celle du tableau.
+
+[A fleur de peau][BOOK_MCBA], ISBN 978-2-75411-138-6
+
+[Sécession]: https://fr.wikipedia.org/wiki/S%C3%A9cession_viennoise
+[Arts and Crafts]: https://fr.wikipedia.org/wiki/Arts_%26_Crafts
+[EXPO_MCBA]: https://www.mcba.ch/expositions/a-fleur-de-peau-vienne-1900-de-klimt-a-schiele-et-kokoschka/
+[MCBA]: https://www.mcba.ch/
+[BOOK_MCBA]: https://www.editions-hazan.fr/livre/fleur-de-peau-vienne-1900-de-klimt-schiele-et-kokoschka-9782754111386
+[Auguste Forel]: https://fr.wikipedia.org/wiki/Auguste_Forel
 
