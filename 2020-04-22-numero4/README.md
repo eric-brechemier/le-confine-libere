@@ -27,7 +27,7 @@ Cet ascenseur ne s'arrête jamais au 4<sup>e</sup> étage.
 Ni en montant, ni en descendant.
 Est-ce un étage réservé au service, accessible par un autre ascenseur ?
 Non. Le temps de parcours de l'ascenseur en montant du 3<sup>e</sup>
-au 5<sup>e</sup>, et en descendant du 5<sup>e</sup> au 3<sup>e</sup>,
+au 5<sup>e</sup>, ou en descendant du 5<sup>e</sup> au 3<sup>e</sup>,
 est identique au temps pour monter ou descendre d'un seul étage.
 
 Cet hôtel n'a pas de quatrième étage. C'est un problème courant en Asie.
