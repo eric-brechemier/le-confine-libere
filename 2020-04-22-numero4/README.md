@@ -173,7 +173,8 @@ Peu convaincu, le psychiatre et neuroanatomiste [Auguste Forel][] refuse
 d'acheter le tableau que le jeune Kokoschka vient de faire de lui. Il n'est
 pas très ressemblant. Les mains présentent clairement les séquelles d'une
 attaque cardiaque dont il n'a jamais souffert. Deux ans plus tard,
-sa main droite, paralysée par une série d'attaques, était celle du tableau.
+sa main droite, [paralysée par une série d'attaques][STROKES],
+était celle du tableau.
 
 [A fleur de peau][BOOK_MCBA], ISBN 978-2-75411-138-6
 
@@ -183,4 +184,5 @@ sa main droite, paralysée par une série d'attaques, était celle du tableau.
 [MCBA]: https://www.mcba.ch/
 [BOOK_MCBA]: https://www.editions-hazan.fr/livre/fleur-de-peau-vienne-1900-de-klimt-schiele-et-kokoschka-9782754111386
 [Auguste Forel]: https://fr.wikipedia.org/wiki/Auguste_Forel
+[STROKES]: https://www.ahajournals.org/doi/full/10.1161/01.str.0000177473.17396.7e
 
