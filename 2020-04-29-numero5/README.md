@@ -91,9 +91,11 @@ pour recopier la lettre sur une nouvelle feuille.
 
 Observez les formes de la lettre par transparence.
 Et commencez à copier, une direction à la fois.
-Les lignes verticales et les parties presque verticales des courbes arrondies.
-Les lignes horizontales et les courbes presque horizontales.
-Les lignes et les courbes transversales, dans un sens, puis dans l'autre.
+D'abord, les lignes verticales,
+et les parties arrondies tangentes à la verticale.
+Puis les lignes horizontales et les courbes presque horizontales.
+Pour finir, les lignes et les courbes transversales,
+dans un sens, puis dans l'autre.
 
 Une fois le contour délimité, découpez la lettre en morceaux,
 une tête, un bras, des pieds. Observez leur arrangement sur l'original.
