@@ -134,9 +134,11 @@ le sandwich en place pendant l'extraction.
 Une fois le fil sorti, retirez le dictionnaire.
 Et ouvrez le sandwich pour déguster.
 
+Voyez le studio de Mr Otter pour une démonstration en vidéo :
+https://youtu.be/rgOfLdO4_9g
+
 ## Enterrement de vie de jeune fille
 
 ![La fille de Jephté de Édouard Debat-Ponsan](images/enterrement-de-vie-de-jeune-fille-la-fille-de-jephte-de-edouard-debat-ponsan.jpg)
-
 
 
