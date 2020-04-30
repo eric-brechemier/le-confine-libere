@@ -75,6 +75,29 @@ ne vous inquiétez pas, vous n'êtes pas seul.
 
 ![Je vous fais une lettre](images/je-vous-fais-une-lettre.jpg)
 
+Pour comprendre la construction d'une lettre,
+le mieux c'est de la déconstruire.
+
+Choisissez une lettre que vous aimez,
+une grosse lettre de titre dans un journal,
+ou bien sur ordinateur, appelez la police
+et imprimez une lettre en pleine page.
+
+Utilisez une feuille de calque,
+une table lumineuse,
+ou attendez un rayon de soleil et
+rendez-vous à la fenêtre,
+pour recopier la lettre sur une nouvelle feuille.
+
+Observez les formes de la lettre par transparence.
+Et commencez à copier, une direction à la fois.
+Les lignes verticales et les parties presque verticales des courbes arrondies.
+Les lignes horizontales et les courbes presque horizontales.
+Les lignes et les courbes transversales, dans un sens, puis dans l'autre.
+
+Une fois le contour délimité, découpez la lettre en morceaux,
+une tête, un bras, des pieds. Observez leur arrangement sur l'original.
+Puis assemblez la à nouveau. Et voyez si elle peut toujours marcher.
 
 ## Le peintre au bout du fil
 
