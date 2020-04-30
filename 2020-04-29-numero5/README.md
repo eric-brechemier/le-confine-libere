@@ -36,7 +36,7 @@ Semaine du 22 avril au 29 avril 2020
 
 ## Enterrement de vie de jeune fille
 
-![La fille de Jephté de Édouard Debat-Ponsan](enterrement-de-vie-de-jeune-fille-la-fille-de-jephte-de-edouard-debat-ponsan.jpg)
+![La fille de Jephté de Édouard Debat-Ponsan](images/enterrement-de-vie-de-jeune-fille-la-fille-de-jephte-de-edouard-debat-ponsan.jpg)
 
 
 
