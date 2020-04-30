@@ -132,7 +132,7 @@ sur le dictionnaire si la pression n'est pas suffisante pour garder
 le sandwich en place pendant l'extraction.
 
 Une fois le fil sorti, retirez le dictionnaire.
-Et ouvrez le sandwich pour déguster la vue.
+Et ouvrez le sandwich pour déguster.
 
 ## Enterrement de vie de jeune fille
 
