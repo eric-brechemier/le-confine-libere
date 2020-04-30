@@ -64,6 +64,7 @@ nous cherchions à écrire le mot le plus long.
 
 Une fois adulte, on peut changer les règles, modifier la forme des lettres,
 ou les regrouper pour créer de nouvelles combinaisons inversées.
+C'est la fête !
 
 ![Pas seul](images/double-sens-pas-seul.jpg)
 
