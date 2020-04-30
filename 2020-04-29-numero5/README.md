@@ -105,6 +105,35 @@ Puis assemblez-la à nouveau. Et voyez si elle peut toujours marcher.
 
 ![Le peintre au bout du fil](images/le-peintre-au-bout-du-fil.jpg)
 
+La santé mentale du peintre marteau ne tient plus qu'à un fil.
+Cette semaine, il a pris un dictionnaire, et l'a emballé dans un sac plastique.
+Il a découpé des feuilles de papier Canson 24x32.
+Coupées en deux : 24x16.
+Pliées en deux pour obtenir des cartes de 12cm sur 16cm.
+
+Il a étalé un drap, et quelques couches de papier brun,
+pour protéger le sol de ses méfaits.
+
+Il a mis des gants en latex, et de l'encre au fond d'une coupelle.
+Puis il y a plongé un morceau de ficelle de vingt à trente centimètres.
+Tout en veillant à ne pas perdre le fil,
+il a noyé la ficelle et a fini de la recouvrir d'encre avec un pinceau.
+
+Pour éliminer l'excès d'encre, il a tiré le fil, de bout en long,
+entre les deux doigts serrés d'une main.
+
+Il a ensuite confectionné un savant sandwich au fil avec deux cartes.
+Une couche de carte. Une couche de fil, arrangé en boucles improbables.
+Puis la deuxième carte pour refermer.
+Voilà le gros dictionnaire rajouté par-dessus,
+pour une cuisson à l'étouffée.
+
+Il n'y a plus qu'à tirer sur le fil. Il ne faut pas hésiter à appuyer
+sur le dictionnaire si la pression n'est pas suffisante pour garder
+le sandwich en place pendant l'extraction.
+
+Une fois le fil sorti, retirer le dictionnaire.
+Et ouvrez le sandwich pour déguster la vue.
 
 ## Enterrement de vie de jeune fille
 
