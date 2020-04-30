@@ -6,6 +6,16 @@ Semaine du 22 avril au 29 avril 2020
 
 ![Des livres et vous](images/des-livres-et-vous.jpg)
 
+Pour célébrer la fin de sa construction, la librairie Au Beau Boulot
+organise une soirée d'inauguration sur le thème « Des livres et vous »
+(Délivrez-vous).
+
+L'entrée est libre mais une tenue de soirée est exigée.
+Chaque personne est invitée à se présenter à travers
+trois livres de son choix, portés ainsi :
+un dans sa main, un sur sa tête et un sur son cœur.
+
+Renseignements : au-bon-boulot@eric.brechemier.name
 
 ## Double sens
 
