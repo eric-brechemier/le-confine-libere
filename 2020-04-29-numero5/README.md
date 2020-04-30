@@ -23,7 +23,7 @@ Renseignements : au-bon-boulot@eric.brechemier.name
 
 Un [ambigramme][] est un visuel ambigu
 qui fait apparaître une nouvelle lecture
-lorsqu'on le retourne.
+lorsqu'on le regarde à l'envers.
 
 Par exemple, on peut créer ainsi un logo qui reste identique
 lorsque l'on retourne la boîte ou le vêtement où il se trouve.
