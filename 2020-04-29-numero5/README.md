@@ -141,4 +141,45 @@ https://youtu.be/rgOfLdO4_9g
 
 ![La fille de Jephté de Édouard Debat-Ponsan](images/enterrement-de-vie-de-jeune-fille-la-fille-de-jephte-de-edouard-debat-ponsan.jpg)
 
+La fille de Jephté est un personnage de la Bible assez méconnu.
+Son histoire nous est comptée au chapitre 11 du livre des Juges.
+Ce récit ne lui donne pas de nom.
+Et pourtant, même anonyme, elle est passée à la postérité.
+Une tragédie en 1544, un oratorio de Carissimi en italien en 1648,
+et un autre de Haendel en anglais en 1752.
+Les français ne sont pas en reste avec des chants, une cantate et un opéra.
+Sans compter les tableaux, dont celui qui illustre cet article,
+peint par Édouard Debat-Ponsan en 1876.
+
+Son histoire est dramatique, digne d'une tragédie grecque.
+Ou pas. Les spécialistes n'arrivent pas à se mettre d'accord.
+Selon les interprétations, elle meurt immolée en sacrifice
+ou seulement condamnée à devenir bonne sœur.
+
+Son seul crime est d'avoir ouvert la porte,
+et d'être sortie la première pour accueillir son père,
+rentré victorieux de la bataille contre les Ammonites.
+
+Jephté, dont le nom signifie « Celui qui l'ouvre »,
+alors qu'il aurait mieux fait de se taire,
+espère s'assurer la victoire par un marché indigne avec le Seigneur :
+en cas de victoire décisive, il jure de consacrer et de sacrifier par le feu
+le premier être qui franchira la porte de sa maison pour l'accueillir.
+
+Par ce sacrifice aléatoire, il contourne les règles du pur et de l'impur.
+S'il est accueilli par un chien ou un âne, voilà un sacrifice indigne.
+Mais au drame, au désespoir, c'est sa fille unique qui accourt la première.
+Jephté déchire ses vêtements de désespoir. Sa fille accepte son sort.
+Certains exégètes vont plus loin : elle se serait sacrifiée en connaissance
+de cause, pour éviter à une servante de subir une mort atroce.
+
+Elle négocie seulement un délai, qui lui est accordé. Pendant deux mois,
+elle partira en montagne, pour pleurer sur sa virginité avec ses amies.
+Le texte Biblique insiste bien sur le fait qu'elle était vierge avant
+de partir, et qu'à son retour pour le jour du sacrifice, elle n'avait
+toujours pas connu d'homme. Que faisaient les jeunes filles de l'époque
+pour enterrer leur vie de jeune fille entre amies dans les montagnes ?
+L'histoire ne nous le dit pas. Mais il devint coutume, pour les femmes
+d'Israël, de pleurer chaque année, pendant quatre jour, le sacrifice de
+la fille de Jephté.
 
