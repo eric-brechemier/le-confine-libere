@@ -36,11 +36,11 @@ est toujours en usage aujourd'hui.
 [New Man]: https://fr.wikipedia.org/wiki/New_Man
 [Raymond Loewy]: https://fr.wikipedia.org/wiki/Raymond_Loewy
 
-![Alphabet](images/double-sens-alphabet.jpg)
-
 Pour créer un ambigramme,
 commençons par écrire un alphabet, par exemple en lettre majuscules.
 Ensuite, retournons la feuille.
+
+![Alphabet](images/double-sens-alphabet.jpg)
 
 Certaines lettres peuvent être lues
 de la même manière dans les deux sens :
