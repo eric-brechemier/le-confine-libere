@@ -99,7 +99,7 @@ dans un sens, puis dans l'autre.
 
 Une fois le contour délimité, découpez la lettre en morceaux, une tête,
 un bras, des pieds. Observez leur arrangement sur la version originale.
-Puis assemblez la à nouveau. Et voyez si elle peut toujours marcher.
+Puis assemblez-la à nouveau. Et voyez si elle peut toujours marcher.
 
 ## Le peintre au bout du fil
 
