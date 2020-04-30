@@ -21,16 +21,20 @@ Renseignements : au-bon-boulot@eric.brechemier.name
 
 ![Un nid sur un pin](images/double-sens-nid-sur-pin.jpg)
 
-Un ambigramme est un visuel ambigu
+Un [ambigramme][] est un visuel ambigu
 qui fait apparaître une nouvelle lecture
 lorsqu'on le retourne.
 
 Par exemple, on peut créer ainsi un logo qui reste identique
 lorsque l'on retourne la boîte ou le vêtement où il se trouve.
 
-C'est le cas du logo de New Man, une marque française de prêt-à-porter,
-dont le logo, conçu en 1969 par le graphiste-designer Raymond Loewy,
+C'est le cas du logo de [New Man][], une marque française de prêt-à-porter,
+dont le logo, conçu en 1969 par le graphiste-designer [Raymond Loewy][],
 est toujours en usage aujourd'hui.
+
+[ambigramme]: https://fr.wikipedia.org/wiki/Ambigramme
+[New Man]: https://fr.wikipedia.org/wiki/New_Man
+[Raymond Loewy]: https://fr.wikipedia.org/wiki/Raymond_Loewy
 
 ![Alphabet](images/double-sens-alphabet.jpg)
 
