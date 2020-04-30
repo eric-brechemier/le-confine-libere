@@ -123,9 +123,9 @@ entre les deux doigts serrés d'une main.
 
 Il a ensuite confectionné un savant sandwich au fil avec deux cartes.
 Une couche de carte. Une couche de fil, arrangé en boucles improbables.
-Puis la deuxième carte pour refermer.
-Voilà le gros dictionnaire rajouté par-dessus,
-pour une cuisson à l'étouffée.
+Il ne faut pas oublier de laisser le morceau de fil propre dépasser.
+Puis on ajoute la deuxième carte pour refermer,
+avec le gros dictionnaire par-dessus, pour une cuisson à l'étouffée.
 
 Il n'y a plus qu'à tirer sur le fil. Il ne faut pas hésiter à appuyer
 sur le dictionnaire si la pression n'est pas suffisante pour garder
