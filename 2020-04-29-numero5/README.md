@@ -131,7 +131,7 @@ Il n'y a plus qu'à tirer sur le fil. Il ne faut pas hésiter à appuyer
 sur le dictionnaire si la pression n'est pas suffisante pour garder
 le sandwich en place pendant l'extraction.
 
-Une fois le fil sorti, retirer le dictionnaire.
+Une fois le fil sorti, retirez le dictionnaire.
 Et ouvrez le sandwich pour déguster la vue.
 
 ## Enterrement de vie de jeune fille
