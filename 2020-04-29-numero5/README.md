@@ -178,7 +178,7 @@ pour éviter à une servante de subir une mort atroce.
 
 Elle négocie simplement un délai, qui lui est accordé. Pendant deux mois,
 elle partira en montagne, pour pleurer sur sa virginité avec ses amies.
-Le texte Biblique insiste bien sur le fait qu'elle était vierge avant
+Le texte biblique insiste bien sur le fait qu'elle était vierge avant
 de partir, et qu'à son retour le jour du sacrifice, elle n'avait toujours
 pas connu d'homme. Que faisaient les jeunes filles de l'époque
 pour enterrer leur vie de jeune fille entre amies dans les montagnes ?
