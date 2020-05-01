@@ -97,8 +97,9 @@ Puis les lignes horizontales et les courbes presque horizontales.
 Pour finir, les lignes et les courbes transversales,
 dans un sens, puis dans l'autre.
 
-Une fois le contour délimité, découpez la lettre en morceaux, une tête,
-un bras, des pieds. Observez leur arrangement sur la version originale.
+Une fois le contour délimité, découpez la lettre en morceaux :
+un œil, une épaule, un tronc, des pieds.
+Observez leur arrangement sur la version originale.
 Puis assemblez-la à nouveau. Et voyez si elle peut toujours marcher.
 
 ## Le peintre au bout du fil
