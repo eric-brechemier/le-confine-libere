@@ -169,8 +169,9 @@ le premier être qui franchira la porte de sa maison pour l'accueillir.
 
 Par ce sacrifice aléatoire, il contourne les règles du pur et de l'impur.
 [S'il est accueilli par un chien ou un âne][], voilà un sacrifice indigne.
-Mais au drame, au désespoir, c'est sa fille unique qui accourt la première.
-Jephté déchire ses vêtements de désespoir. Sa fille accepte son sort.
+Mais ironie du sort, c'est sa fille unique qui accourt la première.
+Jephté déchire ses vêtements de désespoir.
+Sa fille accepte toutes les conséquences du serment.
 Certains exégètes vont plus loin :
 [elle se serait sacrifiée][] en connaissance de cause,
 pour éviter à une servante de subir une mort atroce.
