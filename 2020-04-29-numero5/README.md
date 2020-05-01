@@ -186,7 +186,7 @@ de partir, et qu'à son retour le jour du sacrifice, elle n'avait toujours
 pas connu d'homme. Que faisaient les jeunes filles de l'époque
 pour enterrer leur vie de jeune fille entre amies dans les montagnes ?
 L'histoire ne nous le dit pas. Mais il devint coutume, pour les femmes
-d'Israël, de [pleurer chaque année][], pendant quatre jour, le sacrifice de
+d'Israël, de [pleurer chaque année][], pendant quatre jours, le sacrifice de
 la fille de Jephté.
 
 [fille de Jephté]: https://fr.wikipedia.org/wiki/Jepht%C3%A9
