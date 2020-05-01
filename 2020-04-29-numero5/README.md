@@ -68,8 +68,8 @@ C'est la fête !
 
 ![Pas seul](images/double-sens-pas-seul.jpg)
 
-Si vous trouvez cet exercice mental un peu épuisant,
-ne vous inquiétez pas, vous n'êtes pas seul.
+Si cette gymnastique mentale vous épuise,
+ne vous inquiétez pas. Vous n'êtes pas seul.
 
 ## Je vous fais une lettre
 
