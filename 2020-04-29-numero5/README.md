@@ -141,21 +141,21 @@ https://youtu.be/rgOfLdO4_9g
 
 ![La fille de Jephté de Édouard Debat-Ponsan](images/enterrement-de-vie-de-jeune-fille-la-fille-de-jephte-de-edouard-debat-ponsan.jpg)
 
-La fille de Jephté est un personnage de la Bible assez méconnu.
-Son histoire nous est comptée au chapitre 11 du livre des Juges.
+La [fille de Jephté][] est un personnage de la Bible assez méconnu.
+Son histoire nous est comptée au [chapitre 11 du livre des Juges][Juges11].
 Ce récit ne lui donne pas de nom.
 Et pourtant, même anonyme, elle est passée à la postérité.
-Une première tragédie en latin lui est consacrée en 1554.
-Puis un oratorio en italien par Carissimi en 1648,
-et un autre de Haendel en anglais en 1752.
-Les français ne sont pas en reste avec des chants, une cantate et un opéra.
-Sans compter les tableaux, dont celui qui illustre cet article,
+Une première [tragédie en latin][] lui est consacrée en 1554.
+Puis un [oratorio en italien][] par Carissimi en 1648,
+et un [autre de Haendel][] en anglais en 1752.
+Les français ne sont pas en reste avec des chants, une cantate et un [opéra][].
+Sans compter les tableaux, dont [celui qui illustre cet article][],
 peint par Édouard Debat-Ponsan en 1876.
 
 Son histoire est dramatique, digne d'une tragédie grecque.
 Ou pas. Les spécialistes n'arrivent pas à se mettre d'accord.
-Selon les interprétations, elle meurt immolée en sacrifice
-ou est seulement condamnée à devenir bonne sœur.
+[Selon les interprétations][], elle meurt immolée en sacrifice
+ou est seulement [condamnée à devenir bonne sœur][].
 
 Son seul crime est d'avoir ouvert la porte,
 et d'être sortie la première pour accueillir son père,
@@ -168,11 +168,12 @@ en cas de victoire totale, il jure de consacrer et de sacrifier par le feu
 le premier être qui franchira la porte de sa maison pour l'accueillir.
 
 Par ce sacrifice aléatoire, il contourne les règles du pur et de l'impur.
-S'il est accueilli par un chien ou un âne, voilà un sacrifice indigne.
+[S'il est accueilli par un chien ou un âne][], voilà un sacrifice indigne.
 Mais au drame, au désespoir, c'est sa fille unique qui accourt la première.
 Jephté déchire ses vêtements de désespoir. Sa fille accepte son sort.
-Certains exégètes vont plus loin : elle se serait sacrifiée en connaissance
-de cause, pour éviter à une servante de subir une mort atroce.
+Certains exégètes vont plus loin :
+[elle se serait sacrifiée][] en connaissance de cause,
+pour éviter à une servante de subir une mort atroce.
 
 Elle négocie simplement un délai, qui lui est accordé. Pendant deux mois,
 elle partira en montagne, pour pleurer sur sa virginité avec ses amies.
@@ -181,6 +182,18 @@ de partir, et qu'à son retour le jour du sacrifice, elle n'avait toujours
 pas connu d'homme. Que faisaient les jeunes filles de l'époque
 pour enterrer leur vie de jeune fille entre amies dans les montagnes ?
 L'histoire ne nous le dit pas. Mais il devint coutume, pour les femmes
-d'Israël, de pleurer chaque année, pendant quatre jour, le sacrifice de
+d'Israël, de [pleurer chaque année][], pendant quatre jour, le sacrifice de
 la fille de Jephté.
 
+[fille de Jephté]: https://fr.wikipedia.org/wiki/Jepht%C3%A9
+[Juges11]: https://www.biblegateway.com/passage/?search=Juges+11&version=SG21
+[tragédie en latin]: https://fr.wikipedia.org/wiki/George_Buchanan_(humaniste)#%C5%92uvre
+[oratorio en italien]: https://en.wikipedia.org/wiki/Jephte_(Carissimi)
+[autre de Haendel]: https://fr.wikipedia.org/wiki/Jephtha
+[opéra]: https://fr.wikipedia.org/wiki/Michel_Pignolet_de_Mont%C3%A9clair#L'Op%C3%A9ra_justement
+[celui qui illustre cet article]: https://commons.wikimedia.org/wiki/File:Beaux-Arts_de_Carcassonne_-_La_fille_de_Jepht%C3%A9_1876_-_Edouard-Bernard_Debat-Ponsan_130x198.jpg?uselang=fr
+[Selon les interprétations]: http://www.modernorthodox.fr/jephte/
+[condamnée à devenir bonne sœur]: https://www.thetorah.com/article/did-jephthah-actually-kill-his-daughter
+[S'il est accueilli par un chien ou un âne]: https://jwa.org/encyclopedia/article/jephthahs-daughter-midrash-and-aggadah
+[elle se serait sacrifiée]: http://www.womeninthebible.net/women-bible-old-new-testaments/jephtahs-daughter/
+[pleurer chaque année]: https://ritualwell.org/ritual/jephthahs-daughter-lament
