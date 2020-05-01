@@ -32,6 +32,8 @@ C'est le cas du logo de [New Man][], une marque française de prêt-à-porter,
 dont le logo, conçu en 1969 par le graphiste-designer [Raymond Loewy][],
 est toujours en usage aujourd'hui.
 
+![Logo New Man créé par Raymond Loewy en 1969](images/double-sens-logo-New-Man-de-Raymond-Loewy.png)
+
 [ambigramme]: https://fr.wikipedia.org/wiki/Ambigramme
 [New Man]: https://fr.wikipedia.org/wiki/New_Man
 [Raymond Loewy]: https://fr.wikipedia.org/wiki/Raymond_Loewy
