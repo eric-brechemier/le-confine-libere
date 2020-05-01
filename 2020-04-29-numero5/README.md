@@ -161,7 +161,7 @@ Son seul crime est d'avoir ouvert la porte,
 et d'être sortie la première pour accueillir son père,
 général rentré victorieux de la bataille contre les Ammonites.
 
-Jephté, dont le nom signifie « Celui qui l'ouvre »,
+Jephté, dont le nom signifie [« Celui qui l'ouvre »][],
 alors qu'il aurait mieux fait de se taire,
 espère s'assurer la victoire par un marché indigne avec le Seigneur :
 en cas de victoire totale, il jure de consacrer et de sacrifier par le feu
@@ -194,6 +194,7 @@ la fille de Jephté.
 [celui qui illustre cet article]: https://commons.wikimedia.org/wiki/File:Beaux-Arts_de_Carcassonne_-_La_fille_de_Jepht%C3%A9_1876_-_Edouard-Bernard_Debat-Ponsan_130x198.jpg?uselang=fr
 [Selon les interprétations]: http://www.modernorthodox.fr/jephte/
 [condamnée à devenir bonne sœur]: https://www.thetorah.com/article/did-jephthah-actually-kill-his-daughter
+[« Celui qui l'ouvre »]: http://www.womeninthebible.net/women-bible-old-new-testaments/jephtahs-daughter/
 [S'il est accueilli par un chien ou un âne]: https://jwa.org/encyclopedia/article/jephthahs-daughter-midrash-and-aggadah
 [elle se serait sacrifiée]: http://www.womeninthebible.net/women-bible-old-new-testaments/jephtahs-daughter/
 [pleurer chaque année]: https://ritualwell.org/ritual/jephthahs-daughter-lament
