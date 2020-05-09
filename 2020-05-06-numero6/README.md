@@ -191,7 +191,7 @@ qui contribuent à l'ambiance des différentes scènes.
 L'histoire est parfois très linéaire, comme un roman avec quelques choix
 qui amèneraient à des fins alternatives, ce qui en fait un jeu vidéo
 sans jeu et sans vidéo. Mais comme dans les meilleurs livres d'images,
-le texte dialogue avec l'image et ils s'enrichissent mutuellement
+le texte dialogue avec les illustrations et leur rencontre fait naître
 de nouvelles significations.
 
 [« visual novel »]: https://fr.wikipedia.org/wiki/Visual_novel
