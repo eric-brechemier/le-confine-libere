@@ -144,12 +144,12 @@ Au-delà de la forme dessinée par les lignes,
 elle leur demande d'observer l'espace négatif,
 la forme de l'espace vide dans le reste de la page.
 
-Une autre composition oppose deux carrés à choisir librement.
+Une autre composition figure l'opposition de deux carrés à choisir librement.
 Ces deux formes basiques se confrontent dans une multitude de relations :
 une distance, un rapport d'échelle, une orientation relative.
 Elles développent un rapport dynamique avec le reste de la page.
 Elles définissent une direction et un espace.
-La verticale de la page définit un axe de gravité
+La verticale de la page leur donne un axe de gravité
 qu'elles peuvent choisir de suivre ou de rejeter.
 
 Ces exercices sont aussi l'occasion de découvrir,
