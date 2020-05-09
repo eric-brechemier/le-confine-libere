@@ -154,7 +154,7 @@ qu'elles peuvent choisir de suivre ou de rejeter.
 
 Ces exercices sont aussi l'occasion de découvrir,
 à travers la diversité des compositions de chacun,
-la variation infinie des créations possibles
+la variété infinie des créations possibles
 à partir des mêmes éléments.
 
 Teaching to See, documentaire de Andrei Severny produit par Edward Tufte  
