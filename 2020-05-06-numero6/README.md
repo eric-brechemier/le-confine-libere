@@ -133,6 +133,35 @@ Le papier réservé peut être peint directement, ou laissé en blanc.
 
 ![Voyons](images/voyons.png)
 
+Dans le documentaire [Teaching to See][],
+la graphiste [Inge Druckrey][]
+nous présente quelques-uns des exercices
+qu'elle donne à ses élèves pour leur « apprendre à voir ».
+
+Dans un de ces exercices, elle donne aux élèves cinq lignes
+à partir desquelles ils doivent créer une composition.
+Au-delà de la forme dessinée par les lignes,
+elle leur demande d'observer l'espace négatif,
+la forme de l'espace vide dans le reste de la page.
+
+Une autre composition oppose deux carrés à choisir librement.
+Ces deux formes basiques se confrontent dans une multitude de relations :
+une distance, un rapport d'échelle, une orientation relative.
+Elles développent un rapport dynamique avec le reste de la page.
+Elles définissent une direction et un espace.
+La verticale de la page définit un axe de gravité
+qu'elles peuvent choisir de suivre ou de rejeter.
+
+Ces exercices sont aussi l'occasion de découvrir,
+à travers la diversité des compositions de chacun,
+la variation infinie des créations possibles
+à partir des mêmes éléments.
+
+Teaching to See, documentaire de Andrei Severny produit par Edward Tufte  
+https://teachingtosee.org
+
+[Teaching to See]: https://teachingtosee.org
+[Inge Druckrey]: https://en.wikipedia.org/wiki/Inge_Druckrey
 
 ## Livres d'images
 
