@@ -167,6 +167,37 @@ https://teachingtosee.org
 
 ![Livres d'images: Heart of the Woods](images/livres-d-images.jpg)
 
+Comme son nom ne l'indique pas, le [« visual novel »][] trouve son origin
+au Japon, dans les années 1980. Le roman visuel est une forme hybride
+qui met la technologie des jeux vidéo au service de la narration du roman.
+Il s'inspire à la fois des antiques [jeux vidéo en mode texte][]
+et des techniques d'[animation limitée][]
+développées par [Hanna-Barbera][] pour la télévision dans les années 1950.
+Cette esthétique naît des mêmes contraintes de temps et de budget :
+les romans visuels sont développés à l'économie
+par des équipes d'une dizaine de personnes,
+de petite taille relativement à un jeu vidéo classique.
+Le texte est omniprésent à l'écran, il expose l'histoire,
+les sentiments des personnages, et de nombreux dialogues,
+à la manière d'une pièce de théâtre. Les détails des lieux
+et des actions passent également par le texte,
+comme des didascalies, alors qu'à l'image les mêmes fonds
+et les mêmes attitudes de personnages sont réutilisées autant que possible
+pour illustrer des scènes qui varient pourtant dans le scénario.
+Ils font toutefois la part belle à la musique,
+avec des compositions travaillées
+qui contribuent à l'ambiance des différentes scènes.
+
+L'histoire est parfois très linéaire, comme un roman avec quelques choix
+qui amèneraient à des fins alternatives, ce qui en fait un jeu vidéo
+sans jeu et sans vidéo. Mais comme dans les meilleurs livres d'images,
+le texte dialogue avec l'image et ils s'enrichissent mutuellement
+de nouvelles significations.
+
+[« visual novel »]: https://fr.wikipedia.org/wiki/Visual_novel
+[jeux vidéo en mode texte]: https://fr.wikipedia.org/wiki/Jeu_en_mode_texte
+[animation limitée]: https://fr.wikipedia.org/wiki/Animation_limit%C3%A9e
+[Hanna-Barbera]: https://fr.wikipedia.org/wiki/Hanna-Barbera_Productions
 
 ## Voix sans issue
 
