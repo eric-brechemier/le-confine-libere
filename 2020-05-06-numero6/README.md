@@ -54,17 +54,14 @@ Le pastel gras file sur la feuille
 comme le beurre sur la poêle,
 et recouvre rapidement la zone à protéger.
 
+![Pastel : étape 1](images/le-peintre-reserve-pastel-1.jpg)
+
+Après application, on peut peindre immédiatement sur toute la feuille.
 Le gras du pastel repousse l'encre,
 qui va coucher ailleurs.
 C'est le même principe que la [lithographie][].
 
 [lithographie]: https://fr.wikipedia.org/wiki/Lithographie#Principe
-
-![Pastel : étape 1](images/le-peintre-reserve-pastel-1.jpg)
-
-Malheureusement, le pastel n'est pas précis.
-Il est difficile à tailler car il s'effrite en poussière.
-Il est très fragile. Et il colle aux doigts.
 
 ![Pastel : étape 2](images/le-peintre-reserve-pastel-2.jpg)
 
@@ -79,6 +76,10 @@ dans la couche de peinture supérieure
 pour arriver jusqu'au papier.
 
 ![Pastel : étape 4](images/le-peintre-reserve-pastel-4.jpg)
+
+Malheureusement, le pastel n'est pas précis.
+Il est difficile à tailler car il s'effrite en poussière.
+Il est très fragile. Et il colle aux doigts.
 
 ### Les crayons pastel
 
@@ -97,14 +98,36 @@ qu'un bâtonnet de pastel gras, et ils repoussent l'encre faiblement.
 C'est la technique la plus pénible, mais malheureusement
 c'est celle qui donne les meilleurs résultats.
 
+Le fluide de masquage est un liquide bleu à base de latex,
+qui sèche à l'air libre pour former un film protecteur.
+Il sent très mauvais, il est un peu toxique et irritant.
+Son emploi requiert des précautions.
+
+Il faut attendre 45 minutes pour qu'il sèche sur la feuille
+avant de pouvoir peindre par-dessus. A l'inverse, il sèche rapidement
+et s'accumule dans les poils des pinceaux et il est très difficile
+de les récupérer.
+
+Utilisé ici à la plume, on peut avoir un résultat assez précis.
+
 ![Fluide de masquage : étape 1](images/le-peintre-reserve-fluide-de-masquage-1.jpg)
+
+J'ai utilisé un sèche-cheveux pendant quelques minutes
+pour réduire le temps de séchage avant de peindre.
 
 ![Fluide de masquage : étape 2](images/le-peintre-reserve-fluide-de-masquage-2.jpg)
 
+Il faut ensuite attendre que la peinture soit bien sèche
+avant d'enlever le film protecteur. Appliqué en couche épaisse,
+il se décolle facilement en frottant avec le doigt.
+Mais il arrive parfois qu'il adhère un peu trop
+et qu'il s'arrache en déchirant la feuille.
+
 ![Fluide de masquage : étape 3](images/le-peintre-reserve-fluide-de-masquage-3.jpg)
 
-![Fluide de masquage : étape 4](images/le-peintre-reserve-fluide-de-masquage-4.jpg)
+Le papier réservé peut être peint directement, ou laissé en blanc.
 
+![Fluide de masquage : étape 4](images/le-peintre-reserve-fluide-de-masquage-4.jpg)
 
 ## Voyons
 
