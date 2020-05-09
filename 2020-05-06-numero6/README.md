@@ -34,17 +34,68 @@ au fur et à mesure de la première partie.
 
 ## Le peintre réservé
 
+Lorsqu'on peint avec des encres liquides,
+il est difficile de préserver de petits espaces blancs.
+L'encre blanche coûte cher, et n'est souvent que d'un faible secours.
+Les couleurs s'additionnent par transparence et se mélangent sur la feuille.
+Ainsi, pour avoir du blanc, il faut garder la page vierge
+ou bien n'y ajouter que du blanc, et rien d'autre.
+
+Pour réserver ces espaces blancs pendant qu'on peint,
+qu'on verse, qu'on pulvérise de l'encre à cœur joie,
+voici la technique la plus rapide, la plus pratique
+et celle qui donne les meilleurs résultats.
+Malheureusement, il s'agit de trois méthodes différentes.
+
+### Le pastel gras
+
+C'est la technique la plus rapide.
+Le pastel gras file sur la feuille
+comme le beurre sur la poêle,
+et recouvre rapidement la zone à protéger.
+
+Le gras du pastel repousse l'encre,
+qui va coucher ailleurs.
+C'est le même principe que la [lithographie][].
+
+[lithographie]: https://fr.wikipedia.org/wiki/Lithographie#Principe
+
 ![Pastel : étape 1](images/le-peintre-reserve-pastel-1.jpg)
+
+Malheureusement, le pastel n'est pas précis.
+Il est difficile à tailler car il s'effrite en poussière.
+Il est très fragile. Et il colle aux doigts.
 
 ![Pastel : étape 2](images/le-peintre-reserve-pastel-2.jpg)
 
+Avant d'utiliser la zone réservée, il faut bien la gommer
+pour enlever le pastel. Sinon, l'encre est repoussée.
+
 ![Pastel : étape 3](images/le-peintre-reserve-pastel-3.jpg)
 
+On peut ensuite peindre directement sur le papier préservé.
+C'est comme si l'on avait fait un trou
+dans la couche de peinture supérieure
+pour arriver jusqu'au papier.
+
+![Pastel : étape 4](images/le-peintre-reserve-pastel-4.jpg)
+
+### Les crayons pastel
+
+C'est la technique la plus pratique. Les crayons pastel se taillent
+et s'utilisent comme des crayons classiques. Ils sont très précis.
 
 ![Crayons pastel : étape 1](images/le-peintre-reserve-crayon-pastel-1.jpg)
 
+Malheureusement, en contrepartie, ils sont beaucoup moins couvrants
+qu'un bâtonnet de pastel gras, et ils repoussent l'encre faiblement.
+
 ![Crayons pastel : étape 2](images/le-peintre-reserve-crayon-pastel-2.jpg)
 
+### Le fluide de masquage
+
+C'est la technique la plus pénible, mais malheureusement
+c'est celle qui donne les meilleurs résultats.
 
 ![Fluide de masquage : étape 1](images/le-peintre-reserve-fluide-de-masquage-1.jpg)
 
@@ -53,9 +104,6 @@ au fur et à mesure de la première partie.
 ![Fluide de masquage : étape 3](images/le-peintre-reserve-fluide-de-masquage-3.jpg)
 
 ![Fluide de masquage : étape 4](images/le-peintre-reserve-fluide-de-masquage-4.jpg)
-
-
-![Linogravure](images/le-peintre-reserve-linogravure-1.jpg)
 
 
 ## Voyons
