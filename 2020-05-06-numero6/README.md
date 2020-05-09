@@ -16,7 +16,8 @@ Mais qui va nous enseigner à apprendre à apprendre ?
 Un enseignant sachant enseigner comment apprendre à apprendre.
 
 Dans le cas de la formation à distance, il y a un problème.
-L'enseignant n'est pas présent pour guider l'apprenant dans ses premiers pas.
+L'enseignant n'est pas présent
+pour tenir la main de l'élève qui fait ses premiers pas.
 Il doit donc réfléchir, de manière indirecte, à des interactions
 qui permettront à l'apprenant de découvrir par lui-même
 tout ce dont il a besoin pour progresser dans la formation.
