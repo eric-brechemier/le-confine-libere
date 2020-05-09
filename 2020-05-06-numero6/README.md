@@ -203,4 +203,34 @@ de nouvelles significations.
 
 ![Voix sans issue](images/voix-sans-issue.jpg)
 
+Le 14 août 2014, la carrière de la chanteuse de rock chrétien
+Vicky Beeching s'est arrêtée du jour au lendemain.
+Tous ses concerts, tous ses contrats ont été annulés.
+Les chorales d'églises qui chantaient la veille ses louanges
+ont supprimé tous ses chants de leur répertoire.
+
+Son crime, c'est d'avoir parlé.
+De décrire ce mal qui la ronge de l'intérieur
+depuis l'échec des tentatives d'exorcisme qui lui ont été infligées.
+Victime convaincue d'être hantée par un démon, elle a été soumise
+depuis l'enfance à une manipulation mentale insidieuse.
+Frappée par une maladie auto-immune qui l'a forcée
+à remettre en question les mensonges dont on l'avait convaincue,
+sa santé fragile, après des mois de chimiothérapie,
+lui laisse peu d'énergie pour se reconstruire.
+Pourtant, elle continue de subir les attaques répétées
+de croyants bien faire, justifiés par une Église
+qui pardonne les bourreaux qu'elle héberge en son sein,
+mais à qui il reste trop peu de compassion pour leurs victimes.
+
+Cinquante ans après les [événements de Stonewall][],
+J.C. reste le grand absent de la communauté LGBTQIA+
+et la colombe de paix de Noé refuse toujours de voler
+sous l'arc-en-ciel de la marche des fiertés.
+
+Undivided, autobiographie de Vicky Beeching  
+https://vickybeeching.com/book/
+
+[événements de Stonewall]: https://fr.wikipedia.org/wiki/%C3%89meutes_de_Stonewall
+
 
