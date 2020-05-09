@@ -167,10 +167,10 @@ https://teachingtosee.org
 
 ![Livres d'images: Heart of the Woods](images/livres-d-images.jpg)
 
-Comme son nom ne l'indique pas, le [« visual novel »][] trouve son origin
+Comme son nom ne l'indique pas, le [« visual novel »][] trouve son origine
 au Japon, dans les années 1980. Le roman visuel est une forme hybride
 qui met la technologie des jeux vidéo au service de la narration du roman.
-Il s'inspire à la fois des antiques [jeux vidéo en mode texte][]
+Il s'inspire à la fois des [jeux vidéo en mode texte][]
 et des techniques d'[animation limitée][]
 développées par [Hanna-Barbera][] pour la télévision dans les années 1950.
 Cette esthétique naît des mêmes contraintes de temps et de budget :
