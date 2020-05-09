@@ -204,12 +204,12 @@ de nouvelles significations.
 ![Voix sans issue](images/voix-sans-issue.jpg)
 
 Le 14 août 2014, la carrière de la chanteuse de rock chrétien
-Vicky Beeching s'est arrêtée du jour au lendemain.
+[Vicky Beeching][] s'est arrêtée du jour au lendemain.
 Tous ses concerts, tous ses contrats ont été annulés.
 Les chorales d'églises qui chantaient la veille ses louanges
 ont supprimé tous ses chants de leur répertoire.
 
-Son crime, c'est d'avoir parlé.
+Son crime, [c'est d'avoir parlé][].
 De décrire ce mal qui la ronge de l'intérieur
 depuis l'échec des tentatives d'exorcisme qui lui ont été infligées.
 Victime convaincue d'être hantée par un démon, elle a été soumise
@@ -231,6 +231,7 @@ sous l'arc-en-ciel de la marche des fiertés.
 Undivided, autobiographie de Vicky Beeching  
 https://vickybeeching.com/book/
 
+[Vicky Beeching]: https://vickybeeching.com
+[c'est d'avoir parlé]: https://vickybeeching.com/lgbt/
 [événements de Stonewall]: https://fr.wikipedia.org/wiki/%C3%89meutes_de_Stonewall
-
 
