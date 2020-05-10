@@ -215,7 +215,7 @@ depuis l'échec des tentatives d'exorcisme qui lui ont été infligées.
 Victime convaincue d'être hantée par un démon, elle a été soumise
 depuis l'enfance à une manipulation mentale insidieuse.
 Frappée par une maladie auto-immune qui l'a forcée
-à remettre en question les mensonges dont on l'avait convaincue,
+à remettre en question les mensonges dont on l'avait persuadée,
 sa santé fragile, après des mois de chimiothérapie,
 lui laisse peu d'énergie pour se reconstruire.
 Pourtant, elle continue de subir les attaques répétées

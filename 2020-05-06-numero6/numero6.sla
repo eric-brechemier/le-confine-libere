@@ -81,23 +81,18 @@
         <LAYERS NUMMER="2" LEVEL="2" NAME="Hyperlinks" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00fcf6"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
-            <Subset Name="Adobe Jenson Pro Bold Italic"/>
             <Subset Name="Adobe Jenson Pro Italic"/>
             <Subset Name="Adobe Jenson Pro Light"/>
             <Subset Name="Adobe Jenson Pro Regular"/>
-            <Subset Name="Adobe Jenson Pro Semibold"/>
             <Subset Name="Adobe Jenson Pro Semibold Italic"/>
             <Subset Name="Cochin Bold Italic"/>
             <Subset Name="Creative Commons icons"/>
             <Subset Name="Cyclone Layers Background"/>
             <Subset Name="Cyclone Regular"/>
-            <Subset Name="Giant Layers Background"/>
             <Subset Name="Giant Regular"/>
-            <Subset Name="Topaz Layers Background"/>
             <Subset Name="Topaz Layers Inline"/>
             <Subset Name="Topaz Regular"/>
             <Subset Name="VAG Rundschrift D Light"/>
-            <Subset Name="VAG Rundschrift D Light Italic"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
@@ -289,7 +284,7 @@
         <PAGEOBJECT XPOS="469.6" YPOS="680" OwnPage="0" ItemID="1922695640" PTYPE="4" WIDTH="103.2" HEIGHT="132" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 132 L0 132 L0 0 Z" copath="M0 0 L103.2 0 L103.2 132 L0 132 L0 0 Z" gXpos="469.6" gYpos="680" gWidth="0" gHeight="0" PSTYLE="Text Block" LAYER="0" NEXTITEM="1922821080" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Text Block" CPARENT="Text S"/>
-                <ITEXT CPARENT="Text S" CH="Le 14 août 2014, la carrière de la chanteuse de rock chrétien Vicky Beeching s'est arrêtée du jour au lendemain. Tous ses concerts, tous ses contrats ont été annulés. Les chorales d'églises qui chantaient la veille ses louanges ont supprimé tous ses chants de leur répertoire. Son crime, c'est d'avoir parlé. De décrire ce mal qui la ronge de l'intérieur depuis l'échec des tentatives d'exorcisme qui lui ont été infligées. Victime convaincue d'être hantée par un démon, elle a été soumise depuis l'enfance à une manipulation mentale insidieuse. Frappée par une maladie auto-immune qui l'a forcée à remettre en question les mensonges dont on l'avait convaincue, sa santé fragile, après des mois de chimiothérapie, lui laisse peu d'énergie pour se reconstruire. Pourtant, elle continue de subir les attaques répétées de croyants bien faire, justifiés par une Église qui pardonne les bourreaux qu'elle héberge en son sein, mais à qui il reste trop peu de compassion pour leurs victimes. Cinquante ans après les événements de Stonewall, J.C. reste le grand absent de la communauté LGBTQIA+ et la colombe de paix de Noé refuse toujours de voler sous l'arc-en-ciel de la marche des fiertés."/>
+                <ITEXT CPARENT="Text S" CH="Le 14 août 2014, la carrière de la chanteuse de rock chrétien Vicky Beeching s'est arrêtée du jour au lendemain. Tous ses concerts, tous ses contrats ont été annulés. Les chorales d'églises qui chantaient la veille ses louanges ont supprimé tous ses chants de leur répertoire. Son crime, c'est d'avoir parlé. De décrire ce mal qui la ronge de l'intérieur depuis l'échec des tentatives d'exorcisme qui lui ont été infligées. Victime convaincue d'être hantée par un démon, elle a été soumise depuis l'enfance à une manipulation mentale insidieuse. Frappée par une maladie auto-immune qui l'a forcée à remettre en question les mensonges dont on l'avait persuadée, sa santé fragile, après des mois de chimiothérapie, lui laisse peu d'énergie pour se reconstruire. Pourtant, elle continue de subir les attaques répétées de croyants bien faire, justifiés par une Église qui pardonne les bourreaux qu'elle héberge en son sein, mais à qui il reste trop peu de compassion pour leurs victimes. Cinquante ans après les événements de Stonewall, J.C. reste le grand absent de la communauté LGBTQIA+ et la colombe de paix de Noé refuse toujours de voler sous l'arc-en-ciel de la marche des fiertés."/>
                 <trail PARENT="Text Block"/>
             </StoryText>
         </PAGEOBJECT>
