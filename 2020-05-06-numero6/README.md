@@ -81,9 +81,9 @@ Malheureusement, le pastel n'est pas précis.
 Il est difficile à tailler car il s'effrite en poussière.
 Il est très fragile. Et il colle aux doigts.
 
-### Les crayons pastel
+### Les crayons pastels
 
-C'est la technique la plus pratique. Les crayons pastel se taillent
+C'est la technique la plus pratique. Les crayons pastels se taillent
 et s'utilisent comme des crayons classiques. Ils sont très précis.
 
 ![Crayons pastel : étape 1](images/le-peintre-reserve-crayon-pastel-1.jpg)
