@@ -46,8 +46,9 @@
         <CHARSTYLE CNAME="Title M" CPARENT="Default Character Style" FONT="Cyclone Layers Background" FONTSIZE="14" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Text XS" CPARENT="Default Character Style" FONT="Adobe Jenson Pro Regular" FONTSIZE="6" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="Small Email XL" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light Italic" FONTSIZE="7" FONTFEATURES="-clig"/>
-        <CHARSTYLE CNAME="URL XS" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="URL XS" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTSIZE="6" FONTFEATURES="-clig"/>
         <CHARSTYLE CNAME="URL S" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light" FONTSIZE="7" FONTFEATURES="-clig"/>
+        <CHARSTYLE CNAME="Small URL S" CPARENT="Default Character Style" FONT="VAG Rundschrift D Light Italic" FONTSIZE="5.6" FONTFEATURES="-clig"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -93,6 +94,7 @@
             <Subset Name="Topaz Layers Inline"/>
             <Subset Name="Topaz Regular"/>
             <Subset Name="VAG Rundschrift D Light"/>
+            <Subset Name="VAG Rundschrift D Light Italic"/>
             <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
@@ -274,7 +276,7 @@
                 <DefaultStyle CPARENT="Small Text S"/>
                 <ITEXT CPARENT="Small Text S" CH="Teaching to See"/>
                 <ITEXT CH=" : "/>
-                <ITEXT CPARENT="Small Text S" FONT="Adobe Jenson Pro Light" FONTSIZE="6" CH="https://teachingtosee.org"/>
+                <ITEXT CPARENT="Small Text S" FONT="VAG Rundschrift D Light Italic" FONTSIZE="5.6" CH="https://teachingtosee.org"/>
                 <para/>
                 <ITEXT CPARENT="Small Text S" CH="documentaire de Andrei Severny, produit par Edward Tufte"/>
                 <para/>
@@ -307,8 +309,8 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="584.8" YPOS="800" OwnPage="0" ItemID="1935989208" PTYPE="4" WIDTH="103.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" copath="M0 0 L103.2 0 L103.2 12 L0 12 L0 0 Z" gXpos="584.8" gYpos="800" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle CPARENT="URL XS"/>
-                <ITEXT CPARENT="URL XS" CH="https://vickybeeching.com/book/"/>
+                <DefaultStyle CPARENT="Small URL S"/>
+                <ITEXT CPARENT="Small URL S" CH="https://vickybeeching.com/book/"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -357,6 +359,72 @@
                 <ITEXT CPARENT="Text S" FONT="Adobe Jenson Pro Semibold Italic" CH="Le pastel gras"/>
                 <ITEXT CPARENT="Text S" CH=" repousse l'encre. On peut alors le gommer pour ajouter de nouvelles couleurs sur le papier brut."/>
                 <trail PARENT="Text Block"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="184" YPOS="690" OwnPage="0" ItemID="1925706712" PTYPE="4" WIDTH="43.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://teachingtosee.org" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link85" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L43.2 0 L43.2 12 L0 12 L0 0 Z" copath="M0 0 L43.2 0 L43.2 12 L0 12 L0 0 Z" gXpos="184" gYpos="690" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="162" YPOS="702" OwnPage="0" ItemID="1936431576" PTYPE="4" WIDTH="48" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://en.wikipedia.org/wiki/Inge_Druckrey" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link86" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L48 0 L48 12 L0 12 L0 0 Z" copath="M0 0 L48 0 L48 12 L0 12 L0 0 Z" gXpos="162" gYpos="702" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="281" YPOS="751" OwnPage="0" ItemID="1918156248" PTYPE="4" WIDTH="62.4" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://teachingtosee.org" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link87" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L62.4 0 L62.4 12 L0 12 L0 0 Z" copath="M0 0 L62.4 0 L62.4 12 L0 12 L0 0 Z" gXpos="281" gYpos="751" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="362" YPOS="594" OwnPage="0" ItemID="1925729240" PTYPE="4" WIDTH="36" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://fr.wikipedia.org/wiki/Visual_novel" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link88" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L36 0 L36 12 L0 12 L0 0 Z" copath="M0 0 L36 0 L36 12 L0 12 L0 0 Z" gXpos="362" gYpos="594" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="364" YPOS="618" OwnPage="0" ItemID="1919463896" PTYPE="4" WIDTH="70" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://fr.wikipedia.org/wiki/Jeu_en_mode_texte" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link89" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70 0 L70 12 L0 12 L0 0 Z" copath="M0 0 L70 0 L70 12 L0 12 L0 0 Z" gXpos="364" gYpos="618" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="354.4" YPOS="630" OwnPage="0" ItemID="1919481304" PTYPE="4" WIDTH="72.6" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://fr.wikipedia.org/wiki/Animation_limit%C3%A9e" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link90" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L72.6 0 L72.6 12 L0 12 L0 0 Z" copath="M0 0 L72.6 0 L72.6 12 L0 12 L0 0 Z" gXpos="354.4" gYpos="630" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="554" YPOS="690" OwnPage="0" ItemID="1950530008" PTYPE="4" WIDTH="18.8" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://vickybeeching.com" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link91" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18.8 0 L18.8 12 L0 12 L0 0 Z" copath="M0 0 L18.8 0 L18.8 12 L0 12 L0 0 Z" gXpos="554" gYpos="690" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="469.6" YPOS="702" OwnPage="0" ItemID="1925231064" PTYPE="4" WIDTH="27.4" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://vickybeeching.com" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link92" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L27.4 0 L27.4 12 L0 12 L0 0 Z" copath="M0 0 L27.4 0 L27.4 12 L0 12 L0 0 Z" gXpos="469.6" gYpos="702" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="469.6" YPOS="774" OwnPage="0" ItemID="1919639512" PTYPE="4" WIDTH="34.8" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://vickybeeching.com/lgbt/" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link93" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.8 0 L34.8 12 L0 12 L0 0 Z" copath="M0 0 L34.8 0 L34.8 12 L0 12 L0 0 Z" gXpos="469.6" gYpos="774" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="584.8" YPOS="714" OwnPage="0" ItemID="1936279512" PTYPE="4" WIDTH="70.2" HEIGHT="12" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://fr.wikipedia.org/wiki/%C3%89meutes_de_Stonewall" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link94" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.2 0 L70.2 12 L0 12 L0 0 Z" copath="M0 0 L70.2 0 L70.2 12 L0 12 L0 0 Z" gXpos="584.8" gYpos="714" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="582.8" YPOS="800" OwnPage="0" ItemID="1925598680" PTYPE="4" WIDTH="83.2" HEIGHT="9" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://vickybeeching.com/book/" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="Link96" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L83.2 0 L83.2 9 L0 9 L0 0 Z" copath="M0 0 L83.2 0 L83.2 9 L0 9 L0 0 Z" gXpos="582.8" gYpos="800" gWidth="0" gHeight="0" LAYER="2" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
