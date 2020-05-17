@@ -68,7 +68,7 @@ et raconte une histoire toujours renouvelée.
 
 [« The Shape of Design »][SHAPE_OF_DESIGN] est une collection d'essais
 du graphiste [Frank Chimero][], où il élabore des réflexions
-sur sur les processus de la création sous toutes ses formes.
+sur les processus de la création sous toutes ses formes.
 Nous le suivons sur sa route, dans un voyage qui part du Jazz,
 emprunte les autoroutes des États-Unis,
 puis visite la poésie japonaise, la cuisine moléculaire
