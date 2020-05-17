@@ -28,7 +28,7 @@ ce qui peut être cause de trouble et de confusion.
 
 ![Thank You for the Music](images/thank-you-for-the-music.jpg)
 
-Je me sens redevable à la radio France Musique
+Je me sens redevable à la radio [France Musique][]
 qui m'a ouvert les portes de royaumes oubliés
 et m'a offert des heures de sommeil supplémentaires
 après un réveil trop matinal. Jour après jour,
@@ -59,6 +59,8 @@ La proximité des œuvres présentées ensemble
 tisse des parallèles
 lors d'un concert ou sur un album enregistré
 et raconte une histoire toujours renouvelée.
+
+[France Musique]: https://www.francemusique.fr/
 
 ## The Shape of Design
 
