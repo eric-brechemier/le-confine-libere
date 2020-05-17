@@ -54,8 +54,8 @@ un piano par une harpe,
 une harpe par un clavecin,
 les combinaisons sont infinies.
 Et si cela ne suffisait pas,
-on peut encore changer le programme,
-la proximité des œuvres présentées ensemble
+on peut encore changer le programme.
+La proximité des œuvres présentées ensemble
 tisse des parallèles
 lors d'un concert ou sur un album enregistré
 et raconte une histoire toujours renouvelée.
