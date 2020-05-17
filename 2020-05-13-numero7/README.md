@@ -117,7 +117,7 @@ illustres ou inconnus de l'histoire des couleurs.
 
 [COLOUR_FR]: https://pyramyd-editions.com/collections/all/products/couleur-une-histoire-visuelle
 
-## Coca-Colonization
+## Coca-Colonisation
 
 ![Share a Coke with James Cook](images/share-a-coke-with-james-cook.png)
 
