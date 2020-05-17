@@ -66,6 +66,35 @@ et raconte une histoire toujours renouvelée.
 
 ![The Shape of Design](images/the-shape-of-design.jpg)
 
+[« The Shape of Design »][SHAPE_OF_DESIGN] est une collection d'essais
+du graphiste [Frank Chimero][], où il élabore des réflexions
+sur sur les processus de la création sous toutes ses formes.
+Nous le suivons sur sa route, dans un voyage qui part du Jazz,
+emprunte les autoroutes des États-Unis,
+puis visite la poésie japonaise, la cuisine moléculaire
+et les fabricants de couteaux artisanaux,
+avec un petit détour par la préhistoire.
+
+Dans l'un de ces essais,
+il interroge les peintres de la Renaissance
+sur ce qu'ils peuvent nous apprendre
+sur la création d'aujourd'hui.
+Les maîtres gardent jalousement leurs secrets.
+Mais l'observation de leurs autoportraits
+révèle un mouvement de va-et-vient.
+Comme dans une danse, le peintre s'approche du tableau pour peindre,
+puis fait un pas en arrière pour l'observer, avant de recommencer.
+Cette alternance de mouvements s'accompagne d'un changement de point de vue.
+Collé la toile, le peintre réfléchit au Comment.
+Un pas en arrière, il peut considérer le Pourquoi.
+
+Assis devant l'écran de nos ordinateurs,
+rappelons-nous de la danse des vieux maîtres
+et n'oublions pas de faire un pas en arrière
+pour gagner une nouvelle perspective.
+
+[SHAPE_OF_DESIGN]: https://shapeofdesignbook.com/
+[Frank Chimero]: https://frankchimero.com/about/
 
 ## Colour: a Visual History
 
