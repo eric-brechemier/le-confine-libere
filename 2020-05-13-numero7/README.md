@@ -42,12 +42,13 @@ On ne joue jamais deux fois le même morceau.
 Un soliste dont l'interprétation est parfaite pour un enregistrement en studio
 aura tendance à prendre plus de risques en concert, ce qui donnera une
 nouvelle interprétation moins exacte mais plus vivante, plus énergique.
-Chaque chef d'orchestre apporte sa vision de l'œuvre.
+Chaque chef d'orchestre apporte sa vision de l'œuvre
+qu'il enseigne et transmet à travers l'orchestre.
 Mais on peut également changer la taille de l'orchestre,
 et le choix des instruments, modernes ou anciens,
 pour donner une nouvelle couleur.
-Un nouvel arrangement, c'est comme une cure de jouvence :
-remplacez un quatuor à cordes par un quintet à vent,
+Pour une cure de jouvence, faisons des échanges pour un nouvel arrangement :
+remplaçons un quatuor à cordes par un quintet à vent,
 une guitare par un piano,
 un piano par une harpe,
 une harpe par un clavecin,
@@ -55,9 +56,9 @@ les combinaisons sont infinies.
 Et ce n'est pas tout,
 il suffit de changer le programme,
 la proximité des œuvres présentées ensemble
+tisse des parallèles
 lors d'un concert ou sur un album enregistré
-tisse des parallèles et raconte une histoire
-toujours renouvelée.
+et raconte une histoire toujours renouvelée.
 
 ## The Shape of Design
 
