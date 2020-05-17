@@ -49,7 +49,7 @@ pour donner une nouvelle couleur.
 Un nouvel arrangement, c'est comme une cure de jouvence :
 remplacez un quatuor à cordes par un quintet à vent,
 une guitare par un piano,
-une piano par une harpe,
+un piano par une harpe,
 une harpe par un clavecin,
 les combinaisons sont infinies.
 Et ce n'est pas tout,
