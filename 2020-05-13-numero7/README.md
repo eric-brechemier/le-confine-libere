@@ -20,7 +20,7 @@ s'il faut maintenant danser en quatre dimensions !
 Ce concept de contact indirect est familier au Japon.
 Il apparaît souvent dans l'intrigue des mangas et séries animées.
 Si par mégarde, aveuglé par la soif d'un été brûlant,
-un personnage boit à la bouteille utilisée par un autre,
+un personnage boit à la bouteille déjà utilisée par un autre,
 il y a là un baiser indirect,
 ce qui peut être cause de trouble et de confusion.
 
