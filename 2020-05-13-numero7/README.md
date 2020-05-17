@@ -100,6 +100,22 @@ pour gagner une nouvelle perspective.
 
 ![Colour: a Visual History](images/colour-a-visual-history.jpg)
 
+Dans son livre, publié en français sous le titre
+[« Couleur : une histoire visuelle »][COLOUR_FR],
+Alexandra Loske nous offre un délice pour les yeux,
+un beau-livre rempli d'images de beaux livres sur la couleur.
+
+Dans le prolongement de sa thèse de doctorat,
+ce livre  présente trois siècles d'évolution
+des connaissances sur la couleur et de leur enseignement,
+du traité d'optique publié par Isaac Newton en 1704
+jusqu'aux éventails de couleurs vendus par Pantone aujourd'hui.
+
+Le texte est divisé en courts chapitres, érudits mais pas ennuyeux,
+qui sont l'occasion d'autant de belles rencontres avec les acteurs
+illustres ou inconnus de l'histoire des couleurs.
+
+[COLOUR_FR]: https://pyramyd-editions.com/collections/all/products/couleur-une-histoire-visuelle
 
 ## Coca-colonization
 
