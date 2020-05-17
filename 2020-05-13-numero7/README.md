@@ -143,9 +143,12 @@ comme une volonté impérialiste des États-Unis
 de supplanter la culture française et
 de privilégier leur économie au détriment des produits locaux.
 Les communistes montent au créneau
-et refusent ce qu'ils appellent la « Coca-Colonisation ».
+et refusent ce qu'ils appellent la [« Coca-Colonisation »][COCACOLONIZATION].
 La license d'exploitation de Coca-Cola est refusée une première fois,
-avant d'être accordée seulement en 1952.
+avant d'être [accordée seulement en 1952][COKEFRHISTORY].
+
+[COCACOLONIZATION]: https://en.wikipedia.org/wiki/Cocacolonization
+[COKEFRHISTORY]: https://uh.edu/engines/epi1985.htm
 
 Le terme, lui est resté, et il s'applique au-delà du Coca-Cola
 à la diffusion mondiale de tout un ensemble d'icônes
