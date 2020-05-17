@@ -41,7 +41,7 @@ se réinvente, se refait une jeunesse.
 On ne joue jamais deux fois le même morceau.
 Un soliste dont l'interprétation est parfaite pour un enregistrement en studio
 aura tendance à prendre plus de risques en concert, ce qui donnera une
-nouvelle interprétation moins parfaite mais plus vivante, plus énergique.
+nouvelle interprétation moins exacte mais plus vivante, plus énergique.
 Chaque chef d'orchestre apporte sa vision de l'œuvre.
 Mais on peut également changer la taille de l'orchestre,
 et le choix des instruments, modernes ou anciens,
