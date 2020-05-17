@@ -121,4 +121,43 @@ illustres ou inconnus de l'histoire des couleurs.
 
 ![Share a Coke with James Cook](images/share-a-coke-with-james-cook.png)
 
+En 2019, Coca-Cola célébrait ses [100 ans de présence en France][COKEFR100].
+Dans une [vidéo][COKEFR100_VIDEO] de propagande pour la marque,
+la bouteille emblématique apparaît dans les mains et dans les cœurs
+des français à travers les plus grands événements
+des cinquantes dernières années, de la libération de Paris
+à la victoire de l'équipe de France en coupe du monde de football
+en passant par les barricades de mai 1968.
+
+Pourtant, la distribution de Coca-Cola en France est assez récente,
+et a été confrontée à une vive opposition.
+Jusqu'à la deuxième guerre mondiale,
+la marque est totalement inconnue en France,
+seulement vendue aux américains expatriés.
+C'est la grande époque du BYRRH,
+et le marché des boissons sans alcool est inexistant.
+
+Après la deuxième guerre mondiale,
+la demande de mise sur le marché de Coca-Cola est ressentie
+comme une volonté impérialiste des États-Unis
+de supplanter la culture française et
+de privilégier leur économie au détriment des produits locaux.
+Les communistes montent au créneau
+et refusent ce qu'ils appellent la « Coca-Colonisation ».
+La license d'exploitation de Coca-Cola est refusée une première fois,
+avant d'être accordée seulement en 1952.
+
+Le terme, lui est resté, et il s'applique au-delà du Coca-Cola
+à la diffusion mondiale de tout un ensemble d'icônes
+de la culture américaine : Disney, McDonald's, Starbucks, etc.
+
+Pour prolonger l'anachronisme des 100 ans de Coca-Cola
+vendu en France depuis 1952, je m'amuse à imaginer
+que la Coca-Colonisation a commencé beaucoup plus tôt.
+Ainsi, l'arrivée de l'anglais James Cook en Nouvelle-Zélande en 1769
+peut être perçue comme le début d'une colonisation culturelle anglo-saxonne
+aux dépens de la culture Māori.
+
+[COKEFR100]: https://www.coca-cola-france.fr/histoire/les-evenements-les-plus-marquants-de-l-histoire-de-coca-cola/coca-cola-fete-ses-100-ans-en-france-l-histoire-du-siecle
+[COKEFR100_VIDEO]: https://www.youtube.com/watch?v=ddnskVMsyEU
 
