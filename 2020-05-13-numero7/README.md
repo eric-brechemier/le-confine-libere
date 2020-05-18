@@ -132,7 +132,7 @@ en passant par les barricades de mai 1968.
 
 Pourtant, la distribution de Coca-Cola en France est assez récente,
 et a été confrontée à une vive opposition.
-Jusqu'à la deuxième guerre mondiale,
+Dans la première moitié du vingtième siècle,
 la marque est totalement inconnue en France,
 seulement vendue aux américains expatriés.
 C'est la grande époque du BYRRH,
