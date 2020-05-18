@@ -22,7 +22,8 @@ Il apparaît souvent dans l'intrigue des mangas et séries animées.
 Si par mégarde, aveuglé par la soif d'un été brûlant,
 un personnage boit à la bouteille déjà utilisée par un autre,
 il y a là un baiser indirect,
-ce qui peut être cause de trouble et de confusion.
+ce qui peut être cause de trouble et de confusion,
+quand on vit dans une société du « sans contact ».
 
 ## Thank You for the Music
 
